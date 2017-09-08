@@ -1,2 +1,3 @@
-	name: Daniel Castano's Blog
-	markdown: kramdown
+name: Daniel Castano's Blog
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
