@@ -10,7 +10,7 @@ Baudrillard’s “procession of the simulacra” narrows down the thin line be
 
 Why would I do it? As a first experimental exercise i am interested in day by day user experience. I want to know how much people are willing to believe in facts almost fictional. This thought remind me: Google Nose BETA, an April fools’ day prank made by Google on 2013 and how much people were amazed and convince about such tech advances, getting close to theirs laptop in order to catch digital smell. 
 
-[Google Nose BETA (2013)]: https://www.youtube.com/watch?v=VFbYadm_mrw
+[Google Nose BETA (2013)](https://www.youtube.com/watch?v=VFbYadm_mrw)
 Google Nose BETA (2013): https://www.youtube.com/watch?v=VFbYadm_mrw
 
 Taking a look of these series of annual Google’s pranks, it is intriguing to find some others so much funny and others not so far of our actual tech’s capabilities
