@@ -1,24 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-09-08 20:05:42 -0400
-categories: jekyll update
+title:  "Faking the news. Assessment #1 Brainstorming of possible project"
+date:   2017-09-12 20:05:42 -0400
+categories: Faking the news
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Faking the news. Assessment #1 Brainstorming of possible project
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Baudrillard’s “procession of the simulacra” narrows down the thin line between true/false and real/imaginary. The first question is: Why do we want to make it? What is the goal behind masking the reality?. Once it is solved the following concern is: How can we fake the real world to create opinions based on rhetoric, audiovisuals and cultural bubbles?.
 
-Jekyll also offers powerful support for code snippets:
+Why would I do it? As a first experimental exercise i am interested in day by day user experience. I want to know how much people are willing to believe in facts almost fictional. This thought remind me: Google Nose BETA, an April fools’ day prank made by Google on 2013 and how much people were amazed and convince about such tech advances, getting close to theirs laptop in order to catch digital smell. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[Google Nose BETA (2013)]: https://www.youtube.com/watch?v=VFbYadm_mrw
+Google Nose BETA (2013)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Taking a look of these series of annual Google’s pranks, it is intriguing to find some others so much funny and others not so far of our actual tech’s capabilities
+
+[Google TiSP (2011)]: https://archive.google.com/tisp/index.html
+Google TiSP (2011): It promotes free internet using the through your local municipal sewage lines. You can installed yourself (DIY). Gloves provided
+
+[Gmail Motion (2011)]: https://www.youtube.com/watch?time_continue=72&v=Bu927_ul_X0
+Gmail Motion (2011): It allows you control any gmail feature via gestures. Tracking your movements  through the laptop’s camera you were able interact in other ways without using mouse or keyboard. If you ask me, not far away from current technologies such as Microsoft Kinect or LeapMotion.
+
+But those kind of products are not just a result of pranks. Some of them are sold and bought all the time between us as fake products. Products which cheat consumers selling false benefits. I am talking about product and services from shake weights, weight loss pills, weight loss wraps to false investments with high revenues, false data recovery web sites, etc. 
+
+Following the same vein of thought, i’d been seduced by the idea of create a fictional product which people believe in, maybe invest in, and someday remind them how vulnerable we are to all these social media, needs, culture bubbles and fake commercials. 
+
+As an exercise in order to find a product: What superpower would we like to have?  
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
