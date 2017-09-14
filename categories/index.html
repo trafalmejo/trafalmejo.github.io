@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Categories
+title: Hank Quinlan's Blog
 ---
-{
-    \"categories\": [
-        {% for category in site.categories %}
-        \"{{ category | first }}\"{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ]
-}
+	<h1>{{ page.categories }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.categories %}
+	    <li><span>{{ site.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
