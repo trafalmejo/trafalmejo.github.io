@@ -3,7 +3,7 @@ layout: post
 title: "What do you want to fake?"
 date: 2017-09-11
 categories:
-  - Faking the news
+  - FakingTheNews
 description: 
 image: https://unsplash.com/collections/777742/fake-news?photo=XmMsdtiGSfo
 image-sm: https://unsplash.com/collections/777742/fake-news?photo=XmMsdtiGSfo
