@@ -5,8 +5,8 @@ date: 2017-09-11
 categories:
   - FakingTheNews
 description: 
-image: https://unsplash.com/collections/777742/fake-news?photo=XmMsdtiGSfo/2000/1200
-image-sm: https://unsplash.com/collections/777742/fake-news?photo=XmMsdtiGSfo/500/300
+image: https://unsplash.it/2000/1200
+image-sm: https://unsplash.it/500/300
 ---
 
 Baudrillard’s “procession of the simulacra” narrows down the thin line between true/false and real/imaginary. The first question is: Why do we want to make it? What is the goal behind masking the reality?. Once it is solved the following concern is: How can we fake the real world to create opinions based on rhetoric, audiovisuals and cultural bubbles?.
