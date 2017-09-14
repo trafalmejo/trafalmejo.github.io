@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-09-08 20:05:42 -0400
-categories: jekyll update
+categories: Jekyll
 ---
 ![My helpful screenshot]({{ site.url }}/assets/jekyll.jpg)
 
