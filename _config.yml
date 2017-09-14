@@ -24,6 +24,7 @@ github_username:  trafalmejo
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: /blog/:year/:month/:day/:title
 
 
 # Exclude from processing.
