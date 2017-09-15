@@ -15,7 +15,7 @@ Suppose we've already had the empathy machine. What do we want to share with oth
 
 That said, let's use the most popular expression to make the exchange: "You just need to put yourself in someone else's shoes". Every time you use my shoe you will be able to access the life events i've chosen (maybe i dont want to share all my lifetime with someone else).
 
-({{ site.url }}/assets/empathyMachine.jpeg)
+[empathyMachine]({{ site.url }}/assets/empathyMachine.jpeg)
 
 In this quick sketch there are some life events which worth it.
 1. Being in jail
