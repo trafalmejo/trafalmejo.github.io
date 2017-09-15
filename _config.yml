@@ -1,6 +1,6 @@
 # Site settings
 email: "dsc444@nyu.edu"
-baseurl: "trafalmejo.github.io"
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
@@ -10,7 +10,7 @@ title: Pandora's box by Dan Castano
 description: "Designer and code geek interested in the power of the fun. This is Daniel Castano from Colombia. This BLOG includes mental process and learning progress documentation. However, you are more than welcome participate as an active collaborator. All the experiments, insights, projects, solutions, coffees, materials, people, pizza, you will problably find in this space are part of the experience of ITP - Interactive telecommunication program (Master program), which is taught by NYU at Tisch School of arts.
 
 This blog was done with Github pages + Jekyll + Thomas Vaeth template. MIT License. Tools to share and promote opensource code and teamwork."
-url: "trafalmejo.github.com"
+url: ""
 twitter_username: 
 default_img: "https://unsplash.it/?random"
 
