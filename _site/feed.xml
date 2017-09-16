@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob's .. blog(?)</title>
+    <description>Short collection of insights and thoughts. Feel free to tag along.</description>
+    <link>http://jacobsalzberg.github.io/db/</link>
+    <atom:link href="http://jacobsalzberg.github.io/db/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Feb 2017 00:05:08 -0300</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2017 00:05:08 -0300</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Day 01 - Shall we be friends?</title>
+        <description>&lt;h1 id=&quot;hello-world&quot;&gt;“Hello, world.”&lt;br /&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;-sao-paulo-feb-24th-2017-&quot;&gt;» SAO PAULO, FEB. 24th 2017 «&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;why-are-we-here&quot;&gt;Why are we here?&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps. &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;my-first-blog-about-my-day&quot;&gt;My first blog: About my day&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;div align=&quot;justify&quot;&gt;
+I took most of the day off to find out how to get this &lt;i&gt;stupid&lt;/i&gt; blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
+&lt;/div&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://m.popkey.co/530e0a/XRjLe.gif&quot; /&gt;
+  &lt;figcaption&gt;This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Basic &lt;strong&gt;rewind on Linux&lt;/strong&gt; - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; usage on bash (mint’s gnome based terminal)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jekyll + Bundler&lt;/strong&gt; general usage;&lt;/li&gt;
+  &lt;li&gt;Adding &lt;strong&gt;Gem-Based themes&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; (.md) synax - it’s ultra easy, it’s the synax im using to write this post with. It pretty much converts given symbols into html, making it ultra readable;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;justify&quot;&gt;
+It was a pretty rough ride as I had a lot of issues with gems, mostly related to bad documentation on the theme's end and I had zero previous experience with this. I ended up fixing my problems by using &lt;b&gt;sudo bundle update&lt;/b&gt; after cloning the theme's source repo. It literally took me about 4 hours of tweaking and face-smashing the terminal to get this ready, as the general fix-suggestions made no sense.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;But oh well, at last, the blog is running &lt;i&gt;silky smooth&lt;/i&gt;. After getting the theme all sorted and github pages ready, here’s what I needed to get a build going from linux:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fully edit the post on W10 using Haroopad or atom (it’s faster, better keyboard than my laptop);&lt;/li&gt;
+  &lt;li&gt;Manually upload the post to github it’s faster than using git bash also the images in the static folder;&lt;/li&gt;
+  &lt;li&gt;On linux (given you’re already on the correct brach, which should be &lt;strong&gt;gh-pages&lt;/strong&gt;):
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;sudo git status&lt;/strong&gt; - check if the files were upload properly&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sudo git pull&lt;/strong&gt;   - clones the changes the local folder&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sudo bundle exec jekyll build&lt;/strong&gt;  - builds the blog &lt;img src=&quot;http://jacobsalzberg.github.io/db/static/bexec.png&quot; alt=&quot;Alt&quot; title=&quot;Hello, terminal!&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sudo git add .&lt;/strong&gt; - adds all .html files and other files that were generated&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sudo git commit -m “random commit message”&lt;/strong&gt; - commits the changes&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sudo git push -u origin gh-pages&lt;/strong&gt; - pushes them to github&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;div align=&quot;justify&quot;&gt;
+Alternativelly, I can just get on github on W10 (seems like I'll be doing this as it's the fastest way), go to my &lt;b&gt;gh-pages&lt;/b&gt; branch of my repository, go to the `/_posts/` folder and just create a MARKDOWN file inside of it with my post.
+And that's it, github and jekyll handles the rest. Blog is running really fine. Worth the effort, &lt;i&gt;I guess&lt;/i&gt;. &lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+I really need to work on my multi-tasking skills. I &quot;tunnel&quot; (short of &quot;tunnel vision&quot;: &lt;i&gt;[informal] the tendency to focus exclusively on a single or limited goal or point of view&lt;/i&gt;) too much if there's an issue - if I can't get it solved, I keep trying over and over and over, even if I should be doing something else. This is (somewhat) fine, but not if I'm not moving on the direction of fixing the given issue.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;blog-plans&quot;&gt;Blog plans&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;As for now, I’ll start with two blog categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Personal, for my personal updates (yes, as if it was impossible to guess what it was about with such a creative name) and;&lt;/li&gt;
+  &lt;li&gt;DevBlog, for game-specific updates;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Let’s see how it goes. Just to make this pretty, I’ll add a quote:&lt;/p&gt;
+
+&lt;blockquote&gt;&quot;Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.&quot;  
+&lt;cite&gt;Henri Frederic Amiel&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This will be a really tough ride. As hard as it will be, I’ll do my best and be kind to those around me. 
+Thanks for your time.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;about-the-headers-painting&quot;&gt;About the header’s painting&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://jacobsalzberg.github.io/db/static/path_2000.jpg&quot; /&gt;
+  &lt;figcaption&gt;Painting by k04sk:  &lt;a href=&quot;http://k04sk.deviantart.com/art/Path-333698884&quot; title=&quot;Deviant&quot;&gt; [DA]&lt;/a&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake (indeed it is really an illustration mistake, but that’s not the relevant point here), is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same.&lt;/p&gt;
+
+&lt;p&gt;Thinking about simple optics, the steps are &lt;em&gt;de facto&lt;/em&gt; getting wider and higher. We can think about life and what comes across our path in the same way. Seems like a really daunting and steep path at first.. and it might actually be so. Or it might just be a perspective mistake. This is a really deep composition.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 -0300</pubDate>
+        <link>http://jacobsalzberg.github.io/db/2017/02/24/P01-Hello-World/</link>
+        <guid isPermaLink="true">http://jacobsalzberg.github.io/db/2017/02/24/P01-Hello-World/</guid>
+        
+        
+        <category>Personal</category>
+        
+      </item>
+    
+  </channel>
+</rss>

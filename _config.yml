@@ -1,24 +1,29 @@
 # Site settings
-email: dsc444@nyu.edu
+email: jacob1818@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-92622016-1
 
 # SEO settings
-title: Pandora's box by Dan Castano
-description: "Designer and code geek interested in the power of the fun. This is Daniel Castano from Colombia. This BLOG includes mental process and learning progress documentation. However, you are more than welcome participate as an active collaborator. All the experiments, insights, projects, solutions, coffees, materials, people, pizza, you will problably find in this space are part of the experience of ITP - Interactive telecommunication program (Master program), which is taught by NYU at Tisch School of arts. 
-This blog was done with Github pages + Jekyll + Thomas Vaeth's template. MIT License. Tools to share and promote opensource code and teamwork."
-url: "trafalmejo.github.io"
-twitter_username: 
-default_img: 
+title: Jacob's .. blog(?)
+description: Short collection of insights and thoughts. Feel free to tag along.
+url: "http://jacobsalzberg.github.io/db"
+twitter_username: jacobjsalzberg
+default_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Jacob J. Salzberg
+profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
+profile: Jacob was born in Sao Paulo and feels really detached. Full time "Indie" Developer, former engineer. Welcome to his world. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!
 social:
-  github: github.io/trafalmejo
+  github: http://github.com/jacobsalzberg
+  steam: http://steamcommunity.com/id/jacobjames/
+  facebook: http://www.facebook.com/jacob.salzberg
+  linkedin: http://www.linkedin.com/in/jacobsalzberg
+  twitter: https://twitter.com/jacobjsalzberg
+  google-plus: https://plus.google.com/u/0/+JacobS1818
+  
 
 # Build settings
 include: ["_categories"]
