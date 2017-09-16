@@ -24,7 +24,7 @@
 <loc>http://localhost:4000/archive/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/faking/</loc>
+<loc>http://localhost:4000/category/fakingthenews/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -33,7 +33,7 @@
 <loc>http://localhost:4000/category/personal/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/physical/</loc>
+<loc>http://localhost:4000/category/physicalcomputation/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/personal/</loc>
