@@ -7,7 +7,7 @@ categories:
 description: 
 image: https://unsplash.it/2000/1200/?random
 image-sm: https://unsplash.it/500/300/?random
-post_url: trafalmejo.github.io/blog
+post_url: trafalmejo.github.io/blog/empathyMachine
 ---
 
 What should we consider doing a empathy machine?. First at all, lets define empathy as the capability of understand or feel someonelse's feelings. Some sort of machine with this functionality would be extraodinary desirable, since the main goal of every mean of communication is to send and receive messages through emiters and receptors, what could be more effective than communicate messages connected with feelings?, a new level of effective messages. For sure, everybody will work better together if we feel in the same way about several topics. I am talking about less verbal communication, less doubt about coexistence, more effectiveness, more tolerance and why not, world peace!.
