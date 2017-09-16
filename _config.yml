@@ -1,32 +1,33 @@
 # Site settings
-title: Pandora's box by Dan Castano 
-email: dsc444@nyu.edu 
-description: "Designer and code geek interested in the power of the fun. This is Daniel Castano from Colombia. This BLOG includes mental process and learning progress documentation. However, you are more than welcome participate as an active collaborator. All the experiments, insights, projects, solutions, coffees, materials, people, pizza, you will problably find in this space are part of the experience of ITP - Interactive telecommunication program (Master program), which is taught by NYU at Tisch School of arts. 
-This blog was done with Github pages + Jekyll + lixizhi's template. MIT License. Tools to share and promote opensource code and teamwork."
+email: 
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
 
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+# SEO settings
+title: Trophy
+description: 
+url: ""
+twitter_username: 
+default_img: 
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username: trafalmejo
-permalink: /:year/:month/:day/:title/
-#########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
-# disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: trafalmejo
-disqus_url: "http://trafalmejo.github.io"
-#########################################
+# Profile settings
+name: 
+profile_img: 
+profile: 
+social:
+  github: 
 
 # Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
 
-# highlight
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
