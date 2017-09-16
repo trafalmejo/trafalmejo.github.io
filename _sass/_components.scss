@@ -118,7 +118,7 @@
   &__header {
     color: $color-alpha;
 
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
   }
 
   &__excerpt {
@@ -260,6 +260,12 @@
     flex-direction: row;
   }
 
+  &__archive {
+    @include border-slide();
+
+    @extend %letter-spacing;
+  }
+
   &__social {
     display: flex;
     margin-top: 1em;
@@ -307,14 +313,9 @@
     height: 100%;
     width: 90%;
     margin: 0 auto;
-
-    a {
-      @extend .nav--white;
-    }
   }
 
   h1 {
-    margin-bottom: 0.125em;
 
     @media (min-width: $mq-md) {
       width: 75%;
