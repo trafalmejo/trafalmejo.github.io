@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Welcome to Pandora's box by Dan Castano
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+This is a blog where i share my everything valuable during my stay in NYU.
