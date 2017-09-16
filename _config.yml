@@ -12,11 +12,11 @@ description: "Designer and code geek interested in the power of the fun. This is
 This blog was done with Github pages + Jekyll + Thomas Vaeth template. MIT License. Tools to share and promote opensource code and teamwork."
 url: "trafalmejo.github.io"
 twitter_username: 
-default_img: "https://unsplash.it/?random"
+default_img: ""
 
 # Profile settings
 name: 
-profile_img: "https://unsplash.it/?random"
+profile_img: ""
 profile: 
 social:
   github: "https://github.com/trafalmejo"
