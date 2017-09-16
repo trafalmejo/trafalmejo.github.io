@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Day 05 - The show must go on! | Jacob's .. blog(?)</title>
+  <meta name="author" content="Jacob J. Salzberg">
+  <meta name="description" content="Short collection of insights and thoughts. Feel free to tag along.">
+  <meta property="og:title" content="Day 05 - The show must go on! | Jacob's .. blog(?)">
+  <meta property="og:url" content="http://localhost:4000/2017/02/28/P02-The-Show/">
+  <meta property="og:site_name" content="Jacob's .. blog(?)">
+  <meta property="og:description" content="Short collection of insights and thoughts. Feel free to tag along.">
+  <meta property="og:image" content="http://jacobsalzberg.github.io/db/static/tied_down_at_work_by_kevron2001-db0cihk.jpg">
+  <meta property="og:type" content="blog">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="Short collection of insights and thoughts. Feel free to tag along.">
+  <meta name="twitter:title" content="Day 05 - The show must go on! | Jacob's .. blog(?)">
+  <meta name="twitter:url" content="http://localhost:4000/2017/02/28/P02-The-Show/">
+  <meta name="twitter:site" content="Jacob's .. blog(?)">
+  <meta name="twitter:creator" content="@jacobjsalzberg">
+  <meta name="twitter:domain" content="http://localhost:4000">
+  <meta property="twitter:image" content="http://jacobsalzberg.github.io/db/static/tied_down_at_work_by_kevron2001-db0cihk.jpg">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Lora|Space+Mono:700">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <link rel="alternate" type="application/rss+xml" title="Jacob's .. blog(?)" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/2017/02/28/P02-The-Show/">
+
+  
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-92622016-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  
+</head>
+
+
+  <body>
+
+    <main>
+      <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="section-padding--lg mast rellax" data-rellax-speed="-4">
+    <a class="nav nav--white" href="/">
+      <i class="fa fa-lg fa-arrow-left"></i>
+      <span>Back to Posts</span>
+    </a>
+    <figure class="absolute-bg mast__img" style="background-image: url('http://jacobsalzberg.github.io/db/static/tied_down_at_work_by_kevron2001-db0cihk.jpg');"></figure>
+    <div class="mast__container">
+      <span><time datetime="2017-02-28T00:00:00-05:00" itemprop="datePublished">Feb 28, 2017</time></span>
+      <h1 itemprop="name headline">Day 05 - The show must go on!</h1>
+      
+        <span>Posted in 
+          
+            <a class="nav--white" href="/category/personal">Personal</a>
+          
+        </span>
+      
+      <span></span>
+    </div>
+  </header>
+
+  <section class="section-padding bg-grey" itemprop="articleBody">
+    <div class="post">
+      <h1 id="the-show-must-go-on">“The show must go on!”<br /></h1>
+<hr />
+<h3 id="-sao-paulo-feb-28th-2017-">» SAO PAULO, FEB. 28th 2017 «</h3>
+<hr />
+<p><br /><br /></p>
+
+<h3 id="blog-updates-and-jekyll-">Blog Updates and Jekyll <br /><br /></h3>
+<div align="justify">
+Alright Mr. Blog, you seem to be finally fixed, after giving me a lot of troubles (mostly on my end, but whatever, you can take the blame). I actually came up with the solution when trying to help someone. Sometimes by selfish way of thinking one may find that helping another is a waste of time. It actually works more on the other way - the one that's being helped is doing more to the helper than the helper himself is doing to the one he's aiding. Deep thinking, but it's just pure gold.</div>
+<p><br />
+Here’s what I came up with:<br /><br /></p>
+
+<hr />
+<h4 id="long-read-warning-just-trying-to-help--theres-a-tldr-version-at-the-end">Long read warning, Just trying to help – there’s a TL;DR version at the end</h4>
+
+<p>This issue gave me a huge headache so I really want to try to help you, sorry if I’m being nosey here. Thomas of course might have a better answer, but I think I can help, as I think I really understand how this works now.</p>
+
+<p>Adding to what Thomas’ replied to me (concerning only needing to add the _site folder to the gh-pages branch):</p>
+
+<p>There are two kind of jekyll themes:
+1) Jekyll themes without plugins (<a href="https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/">or with plugins allowed by github</a>);
+2) Jekyll themes with plugins;</p>
+
+<p>Thomas’ theme used to be plugin free as he said.. but not it has plugins!</p>
+
+<h4 id="how-it-works">How it works:</h4>
+
+<p>For themes <strong>without plugins</strong>, you can push the whole build into your repository and just by adding your markdown posts into your _posts folder, <strong>github will build and deploy for you</strong> (as for example, doing <code class="highlighter-rouge">jekyll build</code> locally). The only thing you need to do is to manually add the categories as I described, but that’s only if you add new ones.</p>
+
+<p>For themes with <strong>custom plugins</strong>, you have to build the site at your computer (<code class="highlighter-rouge">sudo bundle exec jekyll build</code> for me) and then manually commit the files inside _sites to your gh-pages branch (and if you want, commit the whole build to another branch, just to keep the code open).</p>
+
+<p>As Thomas’ theme now has a plugin to handle the categories, they’ll <strong>only</strong> be built locally (by <code class="highlighter-rouge">jekyll build</code>). That’s why it works at your computer, because it’s only instancing _site folder. If you deploy the whole build to github, github itself will try to build it as it supports Jekyll nativelly, so it will <strong>ignore</strong> the plugins, which means it will ignore the plugin that makes the categories.</p>
+
+<p>So either you revert to how the theme was before, just like I did on the explanation I posted above (so github manages everything… aside from having to manually add the categories in single html files.. all I have to do now is add the posts and it gets instantly deployed) or you use the current version (with plugins), build it manually on console and upload it every single time.</p>
+
+<h4 id="tldr-version">TL;DR VERSION</h4>
+<p>To sum it up, you have two options:</p>
+
+<p>a) revert to a version with modified _config.yml (that commits the categories you created at _categories folder), manually add _categories and add html files for each one, deploy it to github - all you have to do now is add the posts directly to github and it will build your blog (no need to <code class="highlighter-rouge">jekyll build</code> or <code class="highlighter-rouge">serve</code> ever again);
+<strong>or</strong> 
+<br />
+b) clone from master, build the site locally every time with <code class="highlighter-rouge">jekyll build</code> and deploy _site into gh-pages branch. Optional: clone the build to a master branch, just to share the code;</p>
+
+<p>I’m going with “a” (previous build) as it’s a lot faster.. I love github being able to build the site by itself, I can even post from my cellphone if needed with a markdown editor.
+The only problem is it there are new updates to the theme, so it might be a bit of an issue to ‘catch up’ and implement them.</p>
+
+<p>Anyhow, here’s more info:</p>
+<ul>
+  <li><a href="http://stackoverflow.com/questions/31871433/why-put-the-site-directory-of-a-jekyll-site-in-gitignore">Stackoverflow, Link 1</a></li>
+  <li><a href="http://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200">Stackoverflow, Link 2</a></li>
+</ul>
+
+<p>I hope it helped and I’m sorry if I wrote too much, really trying to help.
+<br />
+—</p>
+
+<p><br /><br />
+Pretty big post, it was a reply to an issue, but I’m keeping it there for reference.</p>
+
+<h4 id="the-path">The path<br /><br /></h4>
+<div align="justify">
+It really will be a long path. I had two game ideas in mind, which ended up being merged together. So while I work on "the Game", I'm also doing more and more Unity work, so I can keep improving. I'm very tired, but I have chosen this "burden" for me. I'm the one who wanted to do this. Hours and hours behind a screen, with an uncertain future on the horizon. At least, I'll end up learning a lot and being able to be around what I love: videogames.
+<br /><br />
+Here's some games I have developed (hey, I don't suck this much, ok? It's just some demos):<br /><br />
+</div>
+
+<p><strong>1. Jogo Dicotomia [unity+c#]</strong></p>
+
+<figure>
+  <img src="https://jacobsalzberg.github.io/db/static/dicotomia.png" />
+  <figcaption>Dicotomia (Binary Search) </figcaption>
+</figure>
+
+<p><a href="https://github.com/jacobsalzberg/Jogo-Dicotomia-UI">Link</a></p>
+
+<p><a href="https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/">Game link</a><br /><br /></p>
+
+<p><strong>2. Jogo Samir Transão ([GMX] old project - doesn’t work on chrome)</strong></p>
+
+<figure>
+  <img src="https://jacobsalzberg.github.io/db/static/samir_transao.png" />
+  <figcaption>Samir Transao </figcaption>
+</figure>
+
+<p><a href="https://github.com/jacobsalzberg/Jogo-Samir-Transao">Repo Link</a></p>
+
+<p><a href="https://jacobsalzberg.github.io/Jogo-Samir-Transao/">Game link</a><br /><br /></p>
+
+<p><strong>3. Jogo Quebra-Blocos [unity+c#]</strong></p>
+
+<figure>
+  <img src="https://jacobsalzberg.github.io/db/static/quebra_blocos_2.png" />
+  <figcaption>Arkanoid Clone </figcaption>
+</figure>
+<p><a href="https://github.com/jacobsalzberg/Jogo-Quebra-Blocos">Repo Link</a></p>
+
+<p><a href="https://jacobsalzberg.github.io/Jogo-Samir-Transao/">Game link</a><br /><br /></p>
+
+<p><br /><br /><br /></p>
+
+<h4 id="skill-improvements">Skill Improvements:<br /><br /></h4>
+
+<ul>
+  <li>C#, more coding related stuff (mostly around enums.</li>
+  <li>Unity, using a lot of new buil-in methods.</li>
+</ul>
+
+<p><br /><br /></p>
+
+<h3 id="lessons-learned">Lessons Learned<br /><br /></h3>
+<div align="justify">
+It's not exactly a new lesson, as this is something I've really working all my life with. Anyhow, it's about helping others, without wanting anything back in charge for it. To sum it up, one that helps do more for himself than for the receiver. Plus it's some mental relief and gives you a really nice feeling about what you have done. That's also a huge landmark concerning open-source. It's good to help, good to collaborate, good to work together.
+</div>
+<p><br /><br /></p>
+
+<hr />
+<hr />
+<h3 id="about-the-headers-painting">About the header’s painting</h3>
+
+<figure>
+  <img src="http://jacobsalzberg.github.io/db/static/tied_down_at_work_by_kevron2001-db0cihk.jpg" />
+  <figcaption>Painting by kevron2001:  <a href="http://www.deviantart.com/art/Tied-down-at-work-665711768" title="Deviant"> [DA]</a> </figcaption>
+</figure>
+
+<div align="justify">
+Picture speaks for itself, I just love it. At first I wanted to share another piece of Artwork, which was a guy also working on the computer.. but the roots were actually growing on his feet, intead of growing on the chair and the desk, which at first I thought that would describe better the situation I feel I'm at. In this current picture, the lady can leave whenever she wants to, it's the workstation that's being stuck in place. She's free.
+<br /><br />
+However, thinking a bit more carefully about it, the roots are where you want them to be. You're always free. You just decided to create bounds with whatever you want, as you can leave at the moment you feel like. So we can be the guy with roots on his feet.. or we can be the lady sitting freely on a rooted workstation (no pun intended). Who shall we be? Or who we already are?
+</div>
+
+
+    </div>
+  </section>
+
+  <section class="profile">
+    <div class="profile__card">
+      <div class="profile__img">
+        <figure class="absolute-bg" style="background-image: url('https://jacobsalzberg.github.io/db//static/profile_img.jpg');"></figure>
+      </div>
+      <div class="profile__container">
+        <p>Jacob was born in Sao Paulo and feels really detached. Full time "Indie" Developer, former engineer. Welcome to his world. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!</p>
+        
+          <ul class="profile__social">
+            
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:jacob1818@gmail.com"></a></li>
+            
+            
+              <li><a class="fa fa-lg fa-github" href="http://github.com/jacobsalzberg" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-steam" href="http://steamcommunity.com/id/jacobjames/" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-facebook" href="http://www.facebook.com/jacob.salzberg" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-linkedin" href="http://www.linkedin.com/in/jacobsalzberg" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-twitter" href="https://twitter.com/jacobjsalzberg" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-google-plus" href="https://plus.google.com/u/0/+JacobS1818" target="_blank"></a></li>
+            
+          </ul>
+        
+      </div>
+    </div>
+  </section>
+
+</article>
+
+
+  <section class="next">
+    <a class="next__link" href="/2017/02/24/P01-Hello-World/" style="background-image: url('http://jacobsalzberg.github.io/db/static/path_2000.jpg');">
+      <div class="next__container">
+        <span>Read Next</span>
+        <h2>Day 01 - Shall we be friends?</h2>
+      </div>
+    </a>
+  </section>
+
+
+    </main>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
+
+
+  </body>
+
+</html>

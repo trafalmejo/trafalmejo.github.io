@@ -3,11 +3,278 @@
   <channel>
     <title>Jacob's .. blog(?)</title>
     <description>Short collection of insights and thoughts. Feel free to tag along.</description>
-    <link>http://jacobsalzberg.github.io/db/</link>
-    <atom:link href="http://jacobsalzberg.github.io/db/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Feb 2017 00:05:08 -0300</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2017 00:05:08 -0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 Sep 2017 14:38:10 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2017 14:38:10 -0400</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Empathy machine</title>
+        <description>&lt;p&gt;What should we consider doing a empathy machine?. First at all, lets define empathy as the capability of understand or feel someonelse’s feelings. Some sort of machine with this functionality would be extraodinary desirable, since the main goal of every mean of communication is to send and receive messages through emiters and receptors, what could be more effective than communicate messages connected with feelings?, a new level of effective messages. For sure, everybody will work better together if we feel in the same way about several topics. I am talking about less verbal communication, less doubt about coexistence, more effectiveness, more tolerance and why not, world peace!.&lt;/p&gt;
+
+&lt;p&gt;Suppose we’ve already had the empathy machine. What do we want to share with other human being? We cannot simply divide the emotions that we feel in specific moments, it is too much more complicated than that. Every life event is composed by different emotions which raise or fall down according with several internal and external factors. Anyway, if we decided to communicate emotions and feelings the normal way to do it would be communicating more than one, in that order of ideas we would be communicating states (all the feelings presented in one life event).&lt;/p&gt;
+
+&lt;p&gt;That said, let’s use the most popular expression to make the exchange: “You just need to put yourself in someone else’s shoes”. Every time you use my shoe you will be able to access the life events i’ve chosen (maybe i dont want to share all my lifetime with someone else).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/empathyMachine.jpeg&quot; alt=&quot;empathyMachine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this quick sketch there are some life events which worth it.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Being in jail&lt;/li&gt;
+  &lt;li&gt;Deliver a baby&lt;/li&gt;
+  &lt;li&gt;Get Married&lt;/li&gt;
+  &lt;li&gt;Lose your pet&lt;/li&gt;
+  &lt;li&gt;Attend ITP&lt;/li&gt;
+  &lt;li&gt;Lose yourself&lt;/li&gt;
+  &lt;li&gt;Graduation&lt;/li&gt;
+  &lt;li&gt;Being in war.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Just thing how difficult is to explain those life events to someone else, but how valuable would be if you do it correctly.&lt;/p&gt;
+
+&lt;p&gt;So what about if i wanna record some memorable moments, but we are not talking about photos, audio, videos of any of that. Let’s record how you felt. You put the shoe and it connects to you somehow in an Sfi mode (many things started that way). You choose your memory hole/slot and to start recording you kick the other foot slightly. You will stop recording in the same way.&lt;/p&gt;
+
+&lt;p&gt;Our shoe will have a lifetime experience by hole and the way you decide to connect the laces and the holes will determine the storyline of the sotry you wanna communicate. On the other hand, the receptor is able to put the show and control the playback of the feelings. Does he wanna go back o go forward? It is up to him/her. Anyway, some experiences could be insufferable for some people and that’s why you can loose the tie in case of pain threshold.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/09/14/empathyMachine/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/14/empathyMachine/</guid>
+        
+        
+        <category>physicalComputation</category>
+        
+      </item>
+    
+      <item>
+        <title>What do you want to fake?</title>
+        <description>&lt;p&gt;Baudrillard’s “procession of the simulacra” narrows down the thin line between true/false and real/imaginary. The first question is: Why do we want to make it? What is the goal behind masking the reality?. Once it is solved the following concern is: How can we fake the real world to create opinions based on rhetoric, audiovisuals and cultural bubbles?.&lt;/p&gt;
+
+&lt;p&gt;Why would I do it? As a first experimental exercise i am interested in day by day user experience. I want to know how much people are willing to believe in facts almost fictional. This thought remind me: Google Nose BETA, an April fools’ day prank made by Google on 2013 and how much people were amazed and convince about such tech advances, getting close to theirs laptop in order to catch digital smell.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VFbYadm_mrw&quot;&gt;Google Nose BETA (2013)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taking a look of these series of annual Google’s pranks, it is intriguing to find some others so much funny and others not so far of our actual tech’s capabilities&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://archive.google.com/tisp/index.html&quot;&gt;Google TiSP (2011)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It promotes free internet using the through your local municipal sewage lines. You can installed yourself (DIY). Gloves provided&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=72&amp;amp;v=Bu927_ul_X0&quot;&gt;Gmail Motion (2011)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It allows you control any gmail feature via gestures. Tracking your movements  through the laptop’s camera you were able interact in other ways without using mouse or keyboard. If you ask me, not far away from current technologies such as Microsoft Kinect or LeapMotion.&lt;/p&gt;
+
+&lt;p&gt;But those kind of products are not just a result of pranks. Some of them are sold and bought all the time between us as fake products. Products which cheat consumers selling false benefits. I am talking about product and services from shake weights, weight loss pills, weight loss wraps to false investments with high revenues, false data recovery web sites, etc.&lt;/p&gt;
+
+&lt;p&gt;Following the same vein of thought, i’d been seduced by the idea of create a fictional product which people believe in, maybe invest in, and someday remind them how vulnerable we are to all these social media, needs, culture bubbles and fake commercials.&lt;/p&gt;
+
+&lt;p&gt;As an exercise in order to find a product: What superpower would we like to have? wanna fly? wanna read minds?&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/09/11/faking01/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/11/faking01/</guid>
+        
+        
+        <category>fakingTheNews</category>
+        
+      </item>
+    
+      <item>
+        <title>Day 10 - Space Invaders, hello there</title>
+        <description>&lt;h1 id=&quot;hello-there-space-invaders&quot;&gt;“Hello there, space invaders!”&lt;br /&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;-sao-paulo-mar-3rd-2017-&quot;&gt;» SAO PAULO, MAR. 3rd 2017 «&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;space-ships&quot;&gt;Space Ships?&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+Small update, nothing really nice to talk about and I'm on a really bad working mood, mostly because I had to go again to my current college, which is giving me a lot of trouble. &lt;br /&gt;
+Anyway, I took a couple days (around 2) to get a Space Invaders clone going on Unity. Nothing major, but it involved basic Unity animations and managing layers.
+
+Here are some sample screenshots and a link to the game, if anyone wants to try.
+ &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. SpaceShips (C#, Unity)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+   &lt;img src=&quot;https://jacobsalzberg.github.io/db/static/spaceships_01.png&quot; /&gt;
+   &lt;figcaption&gt; SpaceShips &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;figure&gt;
+   &lt;img src=&quot;https://jacobsalzberg.github.io/db/static/spaceships_02.png&quot; /&gt;
+   &lt;figcaption&gt; SpaceShips &lt;/figcaption&gt;
+ &lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacobsalzberg/SpaceShips&quot;&gt;Repo Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacobsalzberg.github.io/SpaceShips/&quot;&gt;Game link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;skill-improvements&quot;&gt;Skill Improvements:&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;div align=&quot;justify&quot;&gt;
+ &lt;br /&gt;TODO&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+Having some really bad days and trying to have no 0% day at all. Some days I can work over 10 hours.. while on bad days like yesterday, I couldn't even focus for a whole 15 minutes.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/03/09/P03-SpaceShips/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/09/P03-SpaceShips/</guid>
+        
+        
+        <category>Personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Day 05 - The show must go on!</title>
+        <description>&lt;h1 id=&quot;the-show-must-go-on&quot;&gt;“The show must go on!”&lt;br /&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;-sao-paulo-feb-28th-2017-&quot;&gt;» SAO PAULO, FEB. 28th 2017 «&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blog-updates-and-jekyll-&quot;&gt;Blog Updates and Jekyll &lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+Alright Mr. Blog, you seem to be finally fixed, after giving me a lot of troubles (mostly on my end, but whatever, you can take the blame). I actually came up with the solution when trying to help someone. Sometimes by selfish way of thinking one may find that helping another is a waste of time. It actually works more on the other way - the one that's being helped is doing more to the helper than the helper himself is doing to the one he's aiding. Deep thinking, but it's just pure gold.&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+Here’s what I came up with:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;long-read-warning-just-trying-to-help--theres-a-tldr-version-at-the-end&quot;&gt;Long read warning, Just trying to help – there’s a TL;DR version at the end&lt;/h4&gt;
+
+&lt;p&gt;This issue gave me a huge headache so I really want to try to help you, sorry if I’m being nosey here. Thomas of course might have a better answer, but I think I can help, as I think I really understand how this works now.&lt;/p&gt;
+
+&lt;p&gt;Adding to what Thomas’ replied to me (concerning only needing to add the _site folder to the gh-pages branch):&lt;/p&gt;
+
+&lt;p&gt;There are two kind of jekyll themes:
+1) Jekyll themes without plugins (&lt;a href=&quot;https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/&quot;&gt;or with plugins allowed by github&lt;/a&gt;);
+2) Jekyll themes with plugins;&lt;/p&gt;
+
+&lt;p&gt;Thomas’ theme used to be plugin free as he said.. but not it has plugins!&lt;/p&gt;
+
+&lt;h4 id=&quot;how-it-works&quot;&gt;How it works:&lt;/h4&gt;
+
+&lt;p&gt;For themes &lt;strong&gt;without plugins&lt;/strong&gt;, you can push the whole build into your repository and just by adding your markdown posts into your _posts folder, &lt;strong&gt;github will build and deploy for you&lt;/strong&gt; (as for example, doing &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt; locally). The only thing you need to do is to manually add the categories as I described, but that’s only if you add new ones.&lt;/p&gt;
+
+&lt;p&gt;For themes with &lt;strong&gt;custom plugins&lt;/strong&gt;, you have to build the site at your computer (&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo bundle exec jekyll build&lt;/code&gt; for me) and then manually commit the files inside _sites to your gh-pages branch (and if you want, commit the whole build to another branch, just to keep the code open).&lt;/p&gt;
+
+&lt;p&gt;As Thomas’ theme now has a plugin to handle the categories, they’ll &lt;strong&gt;only&lt;/strong&gt; be built locally (by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt;). That’s why it works at your computer, because it’s only instancing _site folder. If you deploy the whole build to github, github itself will try to build it as it supports Jekyll nativelly, so it will &lt;strong&gt;ignore&lt;/strong&gt; the plugins, which means it will ignore the plugin that makes the categories.&lt;/p&gt;
+
+&lt;p&gt;So either you revert to how the theme was before, just like I did on the explanation I posted above (so github manages everything… aside from having to manually add the categories in single html files.. all I have to do now is add the posts and it gets instantly deployed) or you use the current version (with plugins), build it manually on console and upload it every single time.&lt;/p&gt;
+
+&lt;h4 id=&quot;tldr-version&quot;&gt;TL;DR VERSION&lt;/h4&gt;
+&lt;p&gt;To sum it up, you have two options:&lt;/p&gt;
+
+&lt;p&gt;a) revert to a version with modified _config.yml (that commits the categories you created at _categories folder), manually add _categories and add html files for each one, deploy it to github - all you have to do now is add the posts directly to github and it will build your blog (no need to &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;serve&lt;/code&gt; ever again);
+&lt;strong&gt;or&lt;/strong&gt; 
+&lt;br /&gt;
+b) clone from master, build the site locally every time with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt; and deploy _site into gh-pages branch. Optional: clone the build to a master branch, just to share the code;&lt;/p&gt;
+
+&lt;p&gt;I’m going with “a” (previous build) as it’s a lot faster.. I love github being able to build the site by itself, I can even post from my cellphone if needed with a markdown editor.
+The only problem is it there are new updates to the theme, so it might be a bit of an issue to ‘catch up’ and implement them.&lt;/p&gt;
+
+&lt;p&gt;Anyhow, here’s more info:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/31871433/why-put-the-site-directory-of-a-jekyll-site-in-gitignore&quot;&gt;Stackoverflow, Link 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200&quot;&gt;Stackoverflow, Link 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I hope it helped and I’m sorry if I wrote too much, really trying to help.
+&lt;br /&gt;
+—&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+Pretty big post, it was a reply to an issue, but I’m keeping it there for reference.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-path&quot;&gt;The path&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;div align=&quot;justify&quot;&gt;
+It really will be a long path. I had two game ideas in mind, which ended up being merged together. So while I work on &quot;the Game&quot;, I'm also doing more and more Unity work, so I can keep improving. I'm very tired, but I have chosen this &quot;burden&quot; for me. I'm the one who wanted to do this. Hours and hours behind a screen, with an uncertain future on the horizon. At least, I'll end up learning a lot and being able to be around what I love: videogames.
+&lt;br /&gt;&lt;br /&gt;
+Here's some games I have developed (hey, I don't suck this much, ok? It's just some demos):&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Jogo Dicotomia [unity+c#]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://jacobsalzberg.github.io/db/static/dicotomia.png&quot; /&gt;
+  &lt;figcaption&gt;Dicotomia (Binary Search) &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacobsalzberg/Jogo-Dicotomia-UI&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/&quot;&gt;Game link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Jogo Samir Transão ([GMX] old project - doesn’t work on chrome)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://jacobsalzberg.github.io/db/static/samir_transao.png&quot; /&gt;
+  &lt;figcaption&gt;Samir Transao &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacobsalzberg/Jogo-Samir-Transao&quot;&gt;Repo Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacobsalzberg.github.io/Jogo-Samir-Transao/&quot;&gt;Game link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Jogo Quebra-Blocos [unity+c#]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://jacobsalzberg.github.io/db/static/quebra_blocos_2.png&quot; /&gt;
+  &lt;figcaption&gt;Arkanoid Clone &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacobsalzberg/Jogo-Quebra-Blocos&quot;&gt;Repo Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacobsalzberg.github.io/Jogo-Samir-Transao/&quot;&gt;Game link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;skill-improvements&quot;&gt;Skill Improvements:&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;C#, more coding related stuff (mostly around enums.&lt;/li&gt;
+  &lt;li&gt;Unity, using a lot of new buil-in methods.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;br /&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;div align=&quot;justify&quot;&gt;
+It's not exactly a new lesson, as this is something I've really working all my life with. Anyhow, it's about helping others, without wanting anything back in charge for it. To sum it up, one that helps do more for himself than for the receiver. Plus it's some mental relief and gives you a really nice feeling about what you have done. That's also a huge landmark concerning open-source. It's good to help, good to collaborate, good to work together.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;about-the-headers-painting&quot;&gt;About the header’s painting&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://jacobsalzberg.github.io/db/static/tied_down_at_work_by_kevron2001-db0cihk.jpg&quot; /&gt;
+  &lt;figcaption&gt;Painting by kevron2001:  &lt;a href=&quot;http://www.deviantart.com/art/Tied-down-at-work-665711768&quot; title=&quot;Deviant&quot;&gt; [DA]&lt;/a&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div align=&quot;justify&quot;&gt;
+Picture speaks for itself, I just love it. At first I wanted to share another piece of Artwork, which was a guy also working on the computer.. but the roots were actually growing on his feet, intead of growing on the chair and the desk, which at first I thought that would describe better the situation I feel I'm at. In this current picture, the lady can leave whenever she wants to, it's the workstation that's being stuck in place. She's free.
+&lt;br /&gt;&lt;br /&gt;
+However, thinking a bit more carefully about it, the roots are where you want them to be. You're always free. You just decided to create bounds with whatever you want, as you can leave at the moment you feel like. So we can be the guy with roots on his feet.. or we can be the lady sitting freely on a rooted workstation (no pun intended). Who shall we be? Or who we already are?
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/02/28/P02-The-Show/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/28/P02-The-Show/</guid>
+        
+        
+        <category>Personal</category>
+        
+      </item>
     
       <item>
         <title>Day 01 - Shall we be friends?</title>
@@ -24,13 +291,15 @@ I'll keep this updated for the sake of my mental health. Also, it's a decent too
 
 &lt;h4 id=&quot;my-first-blog-about-my-day&quot;&gt;My first blog: About my day&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
 &lt;div align=&quot;justify&quot;&gt;
-I took most of the day off to find out how to get this &lt;i&gt;stupid&lt;/i&gt; blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
+I took most of the day off to find out how to get this &lt;i&gt;stupid&lt;/i&gt; blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll. So, in order to get the blog working, I had to work on some new skills and try to &quot;unzip&quot; some that were hiding somewhere in my brain.
 &lt;/div&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;https://m.popkey.co/530e0a/XRjLe.gif&quot; /&gt;
   &lt;figcaption&gt;This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;h4 id=&quot;skill-improvements&quot;&gt;Skill Improvements:&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Basic &lt;strong&gt;rewind on Linux&lt;/strong&gt; - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;&lt;/li&gt;
@@ -98,9 +367,9 @@ Thanks for your time.&lt;/p&gt;
 &lt;p&gt;Thinking about simple optics, the steps are &lt;em&gt;de facto&lt;/em&gt; getting wider and higher. We can think about life and what comes across our path in the same way. Seems like a really daunting and steep path at first.. and it might actually be so. Or it might just be a perspective mistake. This is a really deep composition.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 24 Feb 2017 00:00:00 -0300</pubDate>
-        <link>http://jacobsalzberg.github.io/db/2017/02/24/P01-Hello-World/</link>
-        <guid isPermaLink="true">http://jacobsalzberg.github.io/db/2017/02/24/P01-Hello-World/</guid>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/02/24/P01-Hello-World/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/24/P01-Hello-World/</guid>
         
         
         <category>Personal</category>

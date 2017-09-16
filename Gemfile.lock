@@ -8,6 +8,7 @@ GEM
     colorator (1.1.0)
     execjs (2.7.0)
     ffi (1.9.17)
+    ffi (1.9.17-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.4.0)
       addressable (~> 2.4)
@@ -48,6 +49,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll-paginate
@@ -55,4 +57,4 @@ DEPENDENCIES
   octopress-autoprefixer
 
 BUNDLED WITH
-   1.14.5
+   1.15.4
