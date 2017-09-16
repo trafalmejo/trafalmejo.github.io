@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2017/02/24/P01-Hello-World/</loc>
-<lastmod>2017-02-24T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2017/02/28/P02-The-Show/</loc>
-<lastmod>2017-02-28T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2017/03/09/P03-SpaceShips/</loc>
-<lastmod>2017-03-09T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2017/09/11/fakingProject/</loc>
 <lastmod>2017-09-11T00:00:00-04:00</lastmod>
 </url>
@@ -24,19 +12,16 @@
 <loc>http://localhost:4000/archive/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/digitalselfdefense/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/category/fakingthenews/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/personal/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/category/physicalcomputation/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/personal/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/fakingthenews/</loc>

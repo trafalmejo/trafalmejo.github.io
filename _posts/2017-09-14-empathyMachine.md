@@ -3,7 +3,7 @@ layout: post
 title: "Empathy machine"
 date: 2017-09-14
 categories: 
-  - physicalComputation
+  - PhysicalComputation
 description: 
 image: 
 image-sm:

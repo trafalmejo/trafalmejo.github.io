@@ -3,7 +3,7 @@ layout: post
 title: "What do you want to fake?"
 date: 2017-09-11
 categories:
-  - fakingTheNews
+  - FakingTheNews
 description: 
 image: 
 image-sm:
