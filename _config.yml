@@ -1,5 +1,5 @@
 # Site settings
-email: dsc4@nyu.edu
+email: dsc444@nyu.edu
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -19,7 +19,7 @@ profile: Daniel Castano, colombian Designer and developer studying master progra
 social:
   github: http://github.com/trafalmejo
   facebook: http://www.facebook.com/dscastano
-  
+  behance: https://www.behance.net/trafalmejo
 
 # Build settings
 include: ["_categories"]
