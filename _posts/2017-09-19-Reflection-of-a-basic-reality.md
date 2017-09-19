@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: "Reflection of a basic reality"
 date: 2017-09-17
@@ -17,7 +17,7 @@ This green wave should be realigned in order to communicate how we shouldn't con
 
 The main goal of this project is not reinforcement green products' profits, hence companies'. The goal is make people realice of their basic needs and someonelse's in order to not waste material, time, people and that way promotes a much more efficient resources cycle. There are tons of reusable material between our stuff, many of it remains in our garage and atics. More reusable material is in the ocean trapped in ocean currents, meanwhile some other is underground in garbage dumps.
 
- {% include youtube_embed.html id="2fo4TW8woKw" %}
+{% include youtubePlayer.html id="2fo4TW8woKw" %}
 
 A big piece of garbage is a Futurama's chapter released in 1999. Its fictional premise is that earth's garbage cannot longer remain in the planet. That's why humanity decides to eject all the garbage through the space. Unfortunately, the giant ball of gargabe returned to the earth, threating life in earth. This satire is based on Khian Sea waste disposal incident, in which more than 14.000 tons of ash from waste were travelling around 2 years because no country was interested in accept it. Sadly, the ship's captain admitted that they had dumped the most of it into the Atlantic ocean, causing biological and political consequences.
 
