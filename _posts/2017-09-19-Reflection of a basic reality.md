@@ -1,4 +1,15 @@
-	Actual media is full of trend contents which reach more people. because it is more shared.
+	---
+layout: post
+title: "Reflection of a basic reality"
+date: 2017-09-17
+categories:
+  - FakingTheNews
+description: 
+image: 
+image-sm:
+---
+
+Actual media is full of trend contents which reach more people. because it is more shared.
 	Fake or not fake, this postulates drive people', industries', economies' behaviour
 	Overconsumption, over population, global warming have been trend news in the last 15 years, which means so much people have interested in the modic making them better businesses. Green products, green policies and green infraestructures have become more desirable for consumers and make it a revelant topic. 
 	However, this new profitable and green industry don't attack the core fact that people consume so much more than we need, instead of that it promotes buying green shoes made from organic materials, which fabrication proccess used water, fuels and implied other sort of waste. SOME FACTS.
