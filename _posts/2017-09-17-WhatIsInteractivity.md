@@ -26,7 +26,6 @@ At the same time every part have to be able to analize te information in similar
 
 Taking an example from Bred Victor, the current touchable displays and its possible future which is showed in this prommotional video is just insufficient to explain all the possible features available in the future.
 
-![Future Vision](https://www.youtube.com/watch?v=nOU_t4bqEJg)
 {% include youtube_embed.html id="nOU_t4bqEJg" %}  
 
 In this video there is just an improvement in the UI/UX, meanwhile the info is the same. In the future we dream, the objects will have more tools to communicate data, more ways to feedback their users and hence, more efficient manners of speaking. We are talking about textures, balance, movements, that currently we are capable of feel with our hands and right now is wasted (we are touching glass). That's not the future i neither imagine.
