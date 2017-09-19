@@ -26,6 +26,8 @@ At the same time every part have to be able to analize te information in similar
 
 Taking an example from Bred Victor, the current touchable displays and its possible future which is showed in this prommotional video is just insufficient to explain all the possible features available in the future.
 
+{% include youtubePlayer.html id="nOU_t4bqEJg" %}
+
 In this video there is just an improvement in the UI/UX, meanwhile the info is the same. In the future we dream, the objects will have more tools to communicate data, more ways to feedback their users and hence, more efficient manners of speaking. We are talking about textures, balance, movements, that currently we are capable of feel with our hands and right now is wasted (we are touching glass). That's not the future i neither imagine.
 
 Understanding the interactivity as a communicational medium, we should ask ourselves what is the core of their existence?, so far it is just another form of communication, but why should it be more desirable?. The answer is the competitive advantage implicits in the interactivity. High levels of interactivity promotes ENGAGEMENT. Consider the practical uses of a communicational mean in which people spend more time. Children could learn faster and deeper. Adults could become more empathic. Elders could catch up new tecnologies and decrease the generational gap. Even evil propaganda should be more effective with this kind of engagement tools.
