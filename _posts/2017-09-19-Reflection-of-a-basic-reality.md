@@ -42,3 +42,14 @@ I've though about the opposite idea. What about create a mountain of articles we
 I consider very difficult to categorized my intention as a lie, hoax, satire, rumor or conspirancy at this point because the idea is making me think about multiples ways to accomplish it. My approach to the solution will be virtual off course, taking advantage of all the tools to customer tracking  already available in the market. It is my interest to get people' attention in a page full of sales where they can buy what they dont need. The skills I will require are web design and web development in order to fake and register all the no needed articles. However, the most important part is to reach people all around to make them partners in crime once the experience ended.
 
 Let's sale shit.
+
+
+http://www.fordfoundation.org/ideas/equals-change-blog/posts/at-davos-let-s-not-have-yesterday-s-conversation-about-inequality/             
+http://www.fordfoundation.org/ideas/equals-change-blog/posts/how-capitalism-can-be-a-force-for-greater-good/                        
+https://www.ellenmacarthurfoundation.org/circular-economy/overview/principles                        
+http://www.dw.com/en/colombias-middle-class-powered-by-loans/a-16561635                    
+http://discoversociety.org/2013/10/01/sustainable-consumption-and-behaviour-change/                        
+http://www.eltiempo.com/economia/finanzas-personales/tendencias-de-consumo-en-2017-36324                        
+http://www.becomingminimalist.com/minimalist-economy/                        
+https://sustainabledevelopment.un.org/sdgs                        
+https://www.theguardian.com/global-development-professionals-network/2017/apr/06/kate-raworth-doughnut-economics-new-economics
