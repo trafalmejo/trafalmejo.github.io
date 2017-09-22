@@ -5,9 +5,134 @@
     <description>Short collection of insights and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Sep 2017 15:06:00 -0400</pubDate>
-    <lastBuildDate>Sat, 16 Sep 2017 15:06:00 -0400</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2017 16:50:24 -0400</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2017 16:50:24 -0400</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>White Balance and Exposure exercise</title>
+        <description>&lt;p&gt;####White Balance&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/whiteBalanceAuto.jpg&quot; alt=&quot;Auto White Balance&quot; /&gt;
+&lt;img src=&quot;/assets/whiteBalanceGrayCard.jpg&quot; alt=&quot;Grey Card White Balance&quot; /&gt;
+This excercise shows the unaccurate color taken by auto white balance feature in the Canon Mark III camera. The auto white balance feature averages the color pixels present in the scene, this produces a predominant color in the image similar to a color filter which alterates the actual color. In order to correct this, we’ve used 50% grey card to set up the white balance correctly. You can find this feature as a Custom white balance correction.
+This particular photos were taking indoor. The auto white balance give us a yellowish image meanwhile the grey card set up shows us balanced colors.&lt;/p&gt;
+
+&lt;p&gt;####Exposure&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/exposure01.jpg&quot; alt=&quot;Exposure 01&quot; /&gt;
+&lt;img src=&quot;/assets/exposure02.jpg&quot; alt=&quot;Exposure 02&quot; /&gt;
+&lt;img src=&quot;/assets/exposure03.jpg&quot; alt=&quot;Exposure 03&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A right exposure is mandatory in order not to lose data. A histogram visualization show us the color distribution in the image, therefore, histogram values goes from 0 (Black) and 255 (White). That said, it is not desirable to use 0 and 255 values and avoid pure whites and blacks. Above images and its histograms show us good exposure examples.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/09/22/WhiteBalanceAndExposure/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/22/WhiteBalanceAndExposure/</guid>
+        
+        
+        <category>DigitalImagingReset</category>
+        
+      </item>
+    
+      <item>
+        <title>Reflection of a basic reality</title>
+        <description>&lt;p&gt;Actual media is full of trend contents which reach more people every time, because social media is widespread. Fake or not fake media, this postulates drive people’, industries’, economies’ behaviours.&lt;/p&gt;
+
+&lt;p&gt;Overconsumption, over population, global warming have been trend news in the last 15 years, which means so much people have interested in the subject, making them better businesses. Green products, green policies and green infraestructures have become more desirable for consumers who make them a revelant topic. 
+However, this new profitable and green industry don’t attack the core fact that we consume so much more than we need, instead of that it promotes buying “green” shoes made from organic materials, which fabrication proccesses used water, fuels and implied other sort of waste.
+This green wave should be realigned in order to communicate how we shouldn’t consume ecofriend stuff, instead of that we have to consume less, just because we just dont need that much.&lt;/p&gt;
+
+&lt;p&gt;The main goal of this project is not to boost green products’ profits, hence companies’. The goal is make people realice of their basic needs and someonelse’s in order not to waste material, time, people and that way promotes a much more efficient resources cycle. There are tons of reusable material between our stuff, many of it remains in our garage and atics. More reusable material is in the ocean trapped in ocean currents, meanwhile some other is underground in garbage dumps.&lt;/p&gt;
+
+&lt;p&gt;For those capitalism lovers who are thinking how our economy is based in trading and this minimalism would attend with our entire status quo, I have to tell you are right. However, it is about consume less physical products and turn all that money flow in other untangible way of trading. Paying for experiences, travel, tourism, art, services and even high quality products will decrease trash considerably. The economy would consume less, earn less and produce less in order to mantain promote a healthier, sustainable system.&lt;/p&gt;
+
+&lt;iframe width=&quot;865&quot; height=&quot;486&quot; src=&quot;https://www.youtube.com/embed/2fo4TW8woKw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/A_Big_Piece_of_Garbage&quot;&gt;A big piece of garbage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A big piece of garbage is a Futurama’s chapter released in 1999. Its fictional premise is that earth’s garbage cannot longer remain in the planet. That’s why humanity decides to eject all the garbage toward the space. Unfortunately, the giant ball of gargabe returned to the earth, threating life in earth. This satire is based on Khian Sea waste disposal incident, in which more than 14.000 tons of ash from waste were travelling around 2 years because no country was interested in accept it. Sadly, the ship’s captain admitted that they had dumped the most of it into the Atlantic ocean, causing biological and political consequences.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Khian_Sea_waste_disposal_incident&quot;&gt;Khian Sea waste disposal incident&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is another fictional example no far from reality, just in other scale and possible future. The reality I want to reflect is one where people are buying stuff they don’t need and more important are willing to buy more and more without even thinking about it. There are enough audiovisual and paper material to settle down this precedent and let people feel identified with their reality. Let’s fake the fact of a possible event with huge quantities of accumulated garbage. What are you able to do with someonelse garbage? A giant garbage monster terrifying towns near ocean, garbage paradise islands, ocean currents of second-hand stuff to use.&lt;/p&gt;
+
+&lt;p&gt;I’ve though about the opposite idea. What about create a mountain of articles we are interested in but we didn’t buy it because we realized we don’t need them. A Virtual mountain of no needed articles. How do I make people lose their desire of acquisition?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. Analize the user preferences and behaviours
+2. Suggest the user a special article which is on sale coincidentally
+3. Allow the user to buy the article (simbollically)
+4. Expose why the user don't need the object, indeed.
+5. Invite the user to throw their no needed articles.
+.
+.
+.
+.
+6. Sent the no needed garbage to the space.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I consider very difficult to categorized my intention as a lie, hoax, satire, rumor or conspirancy at this point because the idea is making me think about multiples ways to accomplish it. My approach to the solution will be virtual off course, taking advantage of all the tools to customer tracking  already available in the market. It is my interest to get people’ attention in a page full of sales where they can buy what they dont need. The skills I will require are web design and web development in order to fake and register all the no needed articles. However, the most important part is to reach people all around to make them partners in crime once the experience ended.&lt;/p&gt;
+
+&lt;p&gt;Let’s sale shit.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h6 id=&quot;some-references&quot;&gt;Some references:&lt;/h6&gt;
+
+&lt;p&gt;+&lt;a href=&quot;https://www.ellenmacarthurfoundation.org/circular-economy/overview/principles&quot;&gt;Circular economies&lt;/a&gt;                     &lt;br /&gt;
++&lt;a href=&quot;http://www.dw.com/en/colombias-middle-class-powered-by-loans/a-16561635&quot;&gt;Middle colombian class and loans&lt;/a&gt;                  &lt;br /&gt;
++&lt;a href=&quot;http://discoversociety.org/2013/10/01/sustainable-consumption-and-behaviour-change/&quot;&gt;Sustainable consumption and behaviour change&lt;/a&gt;       &lt;br /&gt;
++&lt;a href=&quot;http://www.eltiempo.com/economia/finanzas-personales/tendencias-de-consumo-en-2017-36324&quot;&gt;Preferred products in Colombia&lt;/a&gt;&lt;br /&gt;
++&lt;a href=&quot;http://www.becomingminimalist.com/minimalist-economy/&quot;&gt;Minimalist economy&lt;/a&gt;                     &lt;br /&gt;
++&lt;a href=&quot;https://sustainabledevelopment.un.org/sdgs&quot;&gt;Sustainable development&lt;/a&gt;                      &lt;br /&gt;
++&lt;a href=&quot;https://www.theguardian.com/global-development-professionals-network/2017/apr/06/kate-raworth-doughnut-economics-new-economics&quot;&gt;New economies&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality-Copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality-Copy/</guid>
+        
+        
+        <category>FakingTheNews</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Interactivity?</title>
+        <description>&lt;p&gt;This is a frequent question once you decided to study and work around Interactivity. In Colombia, I worked with an event production company as Interactive designer, my first answer to these people interested in this new study (because it is new) was:
+“Interactivity is communication mean which allows share information between people and machines or people and people through machines.” A definition I’d read in Wikipedia if I remembered it well. However, this meaning is just a blurred offshoot of all the power of interactivity.
+Reading Chris Crawford and his book: The Art of Interactivy Design, Interactivity is a process which involves the below actions: 
+Listen, Think and Speak between two or more participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/interactivity01.jpeg&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every participant should be able to do these three basic actions in orden to communicate. Definitely it is more complex idea than I used to explain. That said, Interactivity is a tool which promotes more efective communication focusing in quality of inputs, processes and outputs of several systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/interactivity02.jpeg&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every individual action is a critical process itself and according with its fluency and rhythm, the communication will success. That said, the interactivity should be categorized by levels defined by how armonical are all their processes between them. Not all the systems are balanced, making low and high levels of interactivity. Remembering Crawford once more time, imagine two people who are communicating between each other. Every participant should be able to listen very well in orden to get 100% of the information, no data lost. At the same time every part have to be able to analize te information in similar paces. No one wants to talk too fast or too slow. Finally, consider how the way we speak defines the quality of the data we transmit.&lt;/p&gt;
+
+&lt;p&gt;Taking an example from Bred Victor, the possible futures of touchable displays which are showed in this prommotional video is just insufficient to explain all the feasible features available in an interactivity future.&lt;/p&gt;
+
+&lt;iframe width=&quot;865&quot; height=&quot;486&quot; src=&quot;https://www.youtube.com/embed/nOU_t4bqEJg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this video there is just an improvement in the UI/UX, meanwhile the info and experience approach are the same. In the future we dream, the objects will have more tools to communicate data, more ways to feedback their users and hence, more efficient manners of speaking, listening and proccesing. We are talking about textures, balance, movements, taste, smell, sensations, weight, body’s parts we are able to take advantage of, but we dont (we are just touching glass). That’s not the future I imagine neither.&lt;/p&gt;
+
+&lt;p&gt;Understanding the interactivity as a communicational medium, we should ask ourselves what is the core of their existence?, so far it is just another form of communication, but why should it be more desirable?. The answer is the competitive advantage implicits in the interactivity. High levels of interactivity promotes ENGAGEMENT. Consider the practical uses of a communicational mean in which people spend more time. Children could learn faster and deeper. Adults could become more empathic. Elders could catch up new tecnologies and decrease the generational gap. Even evil propaganda should be more effective with this kind of engagement tools. Just try to use interactivity for the common good.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/layer.jpeg&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other hand, any notion of interactivity has been designed based on human capabilities, but let’s think about how much are we able to read or sense?, how quick do we process information?. Probably you’ve already notice how many tasks could be done for a computer at the same time and how fast it deliveres it. This fact builds up a whole usability layer that transform data in order people to read it. A layer designed because our limitations. We’ve started becoming the asymptote which makes us think about tools to improve interactivity, tools used on ourselves to get better beings. Tools of the future.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 17 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/09/17/WhatIsInteractivity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/17/WhatIsInteractivity/</guid>
+        
+        
+        <category>PhysicalComputation</category>
+        
+      </item>
     
       <item>
         <title>Empathy machine</title>
@@ -49,27 +174,25 @@
     
       <item>
         <title>What do you want to fake?</title>
-        <description>&lt;p&gt;Baudrillard’s “procession of the simulacra” narrows down the thin line between true/false and real/imaginary. The first question is: Why do we want to make it? What is the goal behind masking the reality?. Once it is solved the following concern is: How can we fake the real world to create opinions based on rhetoric, audiovisuals and cultural bubbles?.&lt;/p&gt;
+        <description>&lt;p&gt;Baudrillard’s “procession of the simulacra” narrows down the thin line between true/false and real/imaginary. The first question is: Why do we want to fake facts? What is the goal behind masking the reality?. Once it is solved the following concern is: How can we fake the real world to create opinions based on rhetoric, audiovisuals and cultural bubbles?.&lt;/p&gt;
 
 &lt;p&gt;Why would I do it? As a first experimental exercise i am interested in day by day user experience. I want to know how much people are willing to believe in facts almost fictional. This thought remind me: Google Nose BETA, an April fools’ day prank made by Google on 2013 and how much people were amazed and convince about such tech advances, getting close to theirs laptop in order to catch digital smell.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VFbYadm_mrw&quot;&gt;Google Nose BETA (2013)&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;865&quot; height=&quot;486&quot; src=&quot;https://www.youtube.com/embed/VFbYadm_mrw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Taking a look of these series of annual Google’s pranks, it is intriguing to find some others so much funny and others not so far of our actual tech’s capabilities&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://archive.google.com/tisp/index.html&quot;&gt;Google TiSP (2011)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It promotes free internet using the through your local municipal sewage lines. You can installed yourself (DIY). Gloves provided&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://archive.google.com/tisp/index.html&quot;&gt;Google TiSP (2011)&lt;/a&gt;: It promotes free internet using your local municipal sewage lines. You can installed yourself (DIY). Gloves provided&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=72&amp;amp;v=Bu927_ul_X0&quot;&gt;Gmail Motion (2011)&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;865&quot; height=&quot;486&quot; src=&quot;https://www.youtube.com/embed/Bu927_ul_X0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;It allows you control any gmail feature via gestures. Tracking your movements  through the laptop’s camera you were able interact in other ways without using mouse or keyboard. If you ask me, not far away from current technologies such as Microsoft Kinect or LeapMotion.&lt;/p&gt;
+&lt;p&gt;This last fake product allows you control any gmail feature via gestures. Tracking your movements  through the laptop’s camera you were able interact in other ways without using mouse or keyboard. If you ask me, not far away from current technologies such as Microsoft Kinect or LeapMotion.&lt;/p&gt;
 
-&lt;p&gt;But those kind of products are not just a result of pranks. Some of them are sold and bought all the time between us as fake products. Products which cheat consumers selling false benefits. I am talking about product and services from shake weights, weight loss pills, weight loss wraps to false investments with high revenues, false data recovery web sites, etc.&lt;/p&gt;
+&lt;p&gt;In spite of Google has made this sort of pranks long time ago. Users are still being cheated, filling Google customer service of mails aabouts these events.&lt;/p&gt;
 
-&lt;p&gt;Following the same vein of thought, i’d been seduced by the idea of create a fictional product which people believe in, maybe invest in, and someday remind them how vulnerable we are to all these social media, needs, culture bubbles and fake commercials.&lt;/p&gt;
+&lt;p&gt;But those kind of products are not just a result of pranks. Some of them are sold and bought all the time between us as fake products. Products which cheat consumers selling false benefits. I am talking about products and services from shake weights, weight loss pills, weight loss wraps to false data recovery web sites and false investments with high revenues, etc.&lt;/p&gt;
 
-&lt;p&gt;As an exercise in order to find a product: What superpower would we like to have? wanna fly? wanna read minds?&lt;/p&gt;
+&lt;p&gt;Following the same vein of thought, I’d been seduced by the idea of create a fictional product in which people believe in, maybe invest in, and someday remind them how vulnerable we are to all these social media, needs, culture bubbles and fake commercials. That said, we will make people ask themselves: What is this product exactly?, Are its features accurate? Do I need it?&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 11 Sep 2017 00:00:00 -0400</pubDate>
