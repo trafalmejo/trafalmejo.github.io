@@ -14,7 +14,7 @@ image-sm:
 Auto White Balance
 ![Auto White Balance](/assets/whiteBalanceAuto.jpg)
 Grey Card White Balance
-![Grey Card White Balance](/assets/whiteBalanceGreyCarD.jpg)
+![Grey Card White Balance](/assets/whiteBalanceGreyCard.jpg)
 This excercise shows the unaccurate color taken by auto white balance feature in the Canon Mark III camera. The auto white balance feature averages the color pixels present in the scene, this produces a predominant color in the image similar to a color filter which alterates the actual color. In order to correct this, we've used 50% grey card to set up the white balance correctly. You can find this feature as a Custom white balance correction.
 This particular photos were taking indoor. The auto white balance give us a yellowish image meanwhile the grey card set up shows us balanced colors.
 
