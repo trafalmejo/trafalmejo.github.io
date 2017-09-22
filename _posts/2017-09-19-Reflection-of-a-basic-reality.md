@@ -49,6 +49,7 @@ Let's sale shit.
 
 
 ######Some references:
+
 +[Circular economies](https://www.ellenmacarthurfoundation.org/circular-economy/overview/principles)                       
 +[Middle colombian class and loans](http://www.dw.com/en/colombias-middle-class-powered-by-loans/a-16561635)                    
 +[Sustainable consumption and behaviour change](http://discoversociety.org/2013/10/01/sustainable-consumption-and-behaviour-change/)         
