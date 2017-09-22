@@ -45,12 +45,14 @@ I consider very difficult to categorized my intention as a lie, hoax, satire, ru
 
 Let's sale shit.
 
-Some references:
-http://www.fordfoundation.org/ideas/equals-change-blog/posts/how-capitalism-can-be-a-force-for-greater-good/                        
-https://www.ellenmacarthurfoundation.org/circular-economy/overview/principles                        
-http://www.dw.com/en/colombias-middle-class-powered-by-loans/a-16561635                    
-http://discoversociety.org/2013/10/01/sustainable-consumption-and-behaviour-change/                        
-http://www.eltiempo.com/economia/finanzas-personales/tendencias-de-consumo-en-2017-36324                        
-http://www.becomingminimalist.com/minimalist-economy/                        
-https://sustainabledevelopment.un.org/sdgs                        
-https://www.theguardian.com/global-development-professionals-network/2017/apr/06/kate-raworth-doughnut-economics-new-economics
+***
+
+
+######Some references:
++[Circular economies](https://www.ellenmacarthurfoundation.org/circular-economy/overview/principles)                       
++[Middle colombian class and loans](http://www.dw.com/en/colombias-middle-class-powered-by-loans/a-16561635)                    
++[Sustainable consumption and behaviour change](http://discoversociety.org/2013/10/01/sustainable-consumption-and-behaviour-change/)         
++[Preferred products in Colombia](http://www.eltiempo.com/economia/finanzas-personales/tendencias-de-consumo-en-2017-36324)  
++[Minimalist economy](http://www.becomingminimalist.com/minimalist-economy/ )                       
++[Sustainable development](https://sustainabledevelopment.un.org/sdgs)                        
++[New economies](https://www.theguardian.com/global-development-professionals-network/2017/apr/06/kate-raworth-doughnut-economics-new-economics)
