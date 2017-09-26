@@ -53,18 +53,18 @@ General sketches
 
 ![General Sketches](/assets/fakingIdea.jpeg)
 
-- Whole idea
-  -1. Get the user in our page somehow
-  -2. Seduce him with a important sale
-  -3. Show the product
-  -4. Bui the product(Simbolically)
-  -5. Decide if it is needed o not.
-    - If it is needed go to Amazon, best Buy o groupon + apologies because it is not gonna have the same price.
-    - If it is not needed. Invitation to throw it in our "no needed articles dump"
-  -6. Invite to be partners in crime to follow and share the page
-  -7. Send 15 tons of garbage to the space eventually.
+### Whole idea
+  1. Get the user in our page somehow
+  2. Seduce him with a important sale
+  3. Show the product
+  4. Bui the product(Simbolically)
+  5. Decide if it is needed o not.
+    + If it is needed go to Amazon, best Buy o groupon + apologies because it is not gonna have the same price.
+    + If it is not needed. Invitation to throw it in our "no needed articles dump"
+  6. Invite to be partners in crime to follow and share the page
+  7. Send 15 tons of garbage to the space eventually.
   
- - Technical requirements:
+### Technical requirements:
  + Feed the web with actual products (Amazon, Best Buy, etc) - Back-end code
  + Front-end showing all the Overconsumption (overwhelming) vs Minimalist economies (easy and comfortable for the eye)
  + Register and save all the data about "no needed article dump" to make our virtual garbage mountain.
