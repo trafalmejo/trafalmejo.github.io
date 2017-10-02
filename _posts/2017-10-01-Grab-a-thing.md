@@ -27,15 +27,3 @@ It is important to point this sort of machines are well known worldwide which me
 This machine has low interactivity on purpose to challenge their users in order to get money. Almost as a Casino where the variables are many and the users feel more lucky than the faith. Win in those cases is possible, but really difficult.
 
 
-
-![Interactivity](/assets/interactivity02.jpeg)
-
-
-
-{% include youtubePlayer.html id="nOU_t4bqEJg" %}
-
-
-
-![Interactivity](/assets/layer.jpeg)
-
-
