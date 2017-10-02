@@ -8,7 +8,7 @@ description:
 image: 
 image-sm:
 ---
-![Interactivity](/assets/09.gif)
+![Interactivity](/assets/o09.gif)
 
 I choose really a simply machine to analize. Electronic claw arcade game also known as claw crane. This machine invite people to play with it. Once the coin is inside of it, you have 30 seconds to grab one of the items shown in the showcase with the help of a mechanical claw. If you win you will get a "valuable" object otherwise you will just lose your money.
 
