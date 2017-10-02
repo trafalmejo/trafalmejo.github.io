@@ -23,7 +23,7 @@ Users tend to see the position of the objects and the claw on the X and Z axes (
 
 ![Interactivity](/assets/o03.jpeg)
 ![Interactivity](/assets/o04.jpeg)
-![Interactivity](/assets/123.gif)
+![Interactivity](/assets/0.gif)
 
 
 It is important to point this sort of machines are well known worldwide which means the learning curve in every play is short no matter how different the design is. However, every configuration differs from each other, which can be make the task easier or not. In order to grab anything there are many variables to consider information about several features from position, weight to torque which this machine is not giving out. This could be seen as an example of a machine that gives a really little feedback to its users which is the whole idea. Let's imagine a claw crane with extraodinary feedback capabilities. In that case, this machine would deliver information about the position, claw strength and aperture, the motion speed, the pick up strength, object's size, weight and so on. This task would be as intuitive as grab something with our bare hands, which means everyone will win in a game without difficulty level. Bad deal!
