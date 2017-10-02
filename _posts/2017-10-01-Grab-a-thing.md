@@ -20,7 +20,7 @@ The clear cubed case allows users to get a notion of spaciality and use the joys
 
 Users tend to see the position of the objects and the claw on the X and Z axes (ground axes) in order to align them and get better chances. Besides, it is really common to try first with the higher objects, which are closer and more free. 
 
-![Interactivity](/assets/o01.jpeg)
+![Interactivity](/assets/o01.jpg)
 
 It is important to point this sort of machines are well known worldwide which means the learning curve in every play is short no matter how different the design is. However, every configuration differs from each other, which can be make the task easier or not. In order to grab anything there are many variables to consider information about several features from position, weight to torque which this machine is not giving out. This could be seen as an example of a machine that gives a really little feedback to its users which is the whole idea. Let's imagine a claw crane with extraodinary feedback capabilities. In that case, this machine would deliver information about the position, claw strength and aperture, the motion speed, the pick up strength, object's size, weight and so on. This task would be as intuitive as grab something with our bare hands, which means everyone will win in a game without difficulty level. Bad deal!
 
