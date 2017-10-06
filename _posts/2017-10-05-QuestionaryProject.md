@@ -11,6 +11,8 @@ image-sm:
 
 # Faking the News: Project
 
+
+
 ## Metadata
 
 1. Your name / major / year
@@ -49,26 +51,26 @@ image-sm:
 
 1. Tools used, with justification
 
-+Node.js - web Crawling (optional) in order to get actual sales and make it more desirable
-+Node.js - backend framework (optional) in order to register numbers
-+Express.js - frontend framework - to generate dinamic content
-+Photoshop - content development look and feel minimal  vs overconsumption
-+Godaddy hosting and Buy Domain 
-+Promote sharing via facebook - promote partners in crime who recomend the sales.
++ Node.js - web Crawling (optional) in order to get actual sales and make it more desirable
++ Node.js - backend framework (optional) in order to register numbers
++ Express.js - frontend framework - to generate dinamic content
++ Photoshop - content development look and feel minimal  vs overconsumption
++ Godaddy hosting and Buy Domain 
++ Promote sharing via facebook - promote partners in crime who recomend the sales.
 
 2. Data collection and measurement (if appropriate)
 
-+Node.js + web storage = noNeeded articles
++ Node.js + web storage = noNeeded articles
 
 3. Ethical risks and mitigation
 
-+people who are not interested in the project - apologies and explanation of the project.
-+people's feelings hurt - apologies and explanation of the project.
++ people who are not interested in the project - apologies and explanation of the project.
++ people's feelings hurt - apologies and explanation of the project.
 
 4. Legal risks and mitigation
 
-+commercial web page - no credit card or personal information trade
-+official web pages demands - not a copy
++ commercial web page - no credit card or personal information trade
++ official web pages demands - not a copy
 
 ## Justification
 
@@ -77,18 +79,18 @@ Dollar tree prices and quality products. Black fridays madness and garages full 
 
 ## Links
 
-+Circular economies 
-+Middle colombian class and loans 
-+Sustainable consumption and behaviour change 
-+Preferred products in Colombia
-+Minimalist economy 
-+Sustainable development 
-+New economies
-+oneMillionWebPage
++ Circular economies 
++ Middle colombian class and loans 
++ Sustainable consumption and behaviour change 
++ Preferred products in Colombia
++ Minimalist economy 
++ Sustainable development 
++ New economies
++ oneMillionWebPage
 
 1. Initial ideation
-+https://trafalmejo.github.io/category/fakingthenews/
++ https://trafalmejo.github.io/category/fakingthenews/
 2. Project questionnaire
-+https://trafalmejo.github.io/2017/10/01/QuestionaryProject/
++ https://trafalmejo.github.io/2017/10/01/QuestionaryProject/
 3. Project URL (direct/source/other)
 + https://trafalmejo.github.io/2017/10/01/QuestionaryProject/
