@@ -3,7 +3,7 @@ layout: post
 title: "What is Interactivity?"
 date: 2017-09-17
 categories: 
-  - PhysicalComputation
+  - PhyComp
 description: 
 image: 
 image-sm:

@@ -3,7 +3,7 @@ layout: post
 title: "Grab a thing"
 date: 2017-10-01
 categories: 
-  - PhysicalComputation
+  - PhyComp
 description: 
 image: 
 image-sm:

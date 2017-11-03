@@ -3,7 +3,7 @@ layout: post
 title: "White Balance and Exposure exercise"
 date: 2017-09-22
 categories:
-  - DigitalImagingReset
+  - DigitalImage
 description: 
 image: 
 image-sm:

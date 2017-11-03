@@ -3,7 +3,7 @@ layout: post
 title: "Reflection of a basic reality"
 date: 2017-09-17
 categories:
-  - FakingTheNews
+  - FakeNews
 description: 
 image: 
 image-sm:

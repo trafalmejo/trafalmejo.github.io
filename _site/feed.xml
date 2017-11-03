@@ -5,24 +5,199 @@
     <description>Short collection of insights and thoughts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Sep 2017 16:50:24 -0400</pubDate>
-    <lastBuildDate>Fri, 22 Sep 2017 16:50:24 -0400</lastBuildDate>
-    <generator>Jekyll v3.4.0</generator>
+    <pubDate>Fri, 03 Nov 2017 10:06:44 -0400</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2017 10:06:44 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.5</generator>
+    
+      <item>
+        <title>NoNeeded articles dump</title>
+        <description>&lt;h1 id=&quot;faking-the-news-project&quot;&gt;Faking the News: Project&lt;/h1&gt;
+
+&lt;h2 id=&quot;metadata&quot;&gt;Metadata&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your name / major / year&lt;/p&gt;
+
+    &lt;p&gt;Daniel Castano / ITP / 2017-First year&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project working title&lt;/p&gt;
+
+    &lt;p&gt;+NoNeeded articles dump&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tweet-length project description&lt;/p&gt;
+
+    &lt;p&gt;NoNeeded articles dump is a virtual dump with trendy products which people decided not to buy because they realized they actually don’t need them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Paragraph-length project description&lt;/p&gt;
+
+    &lt;p&gt;Buy and sell stuff is the base of our economy. Unfortunately, it implies meanwhile our population is increasing, our goods production rates are rising up as well, speeding up non recyclable garbage generation. This concern get worse due to people who buy articles they actually don’t need driven by sales, low prices, commercials and trends. 
+ Minimal economies promotes the trade of reusable goods as experiences, art, services, travel and tourism and even high quality products with longer life expectancies. Long term consequences will include less consumption, less production of goods and therefore less earnings rates in exchange of a more sustainable system. NoNeeded articles dump is a virtual dump with trendy products people decided not to buy because they realized they don’t need them.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;concept&quot;&gt;Concept&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What basic reality does your project reflect?&lt;/p&gt;
+
+    &lt;p&gt;Unbelievable sales!. The lowest prices just available on black fridays.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What basic reality does your project mask or pervert?&lt;/p&gt;
+
+    &lt;p&gt;Those trendy articles don’t have that sort of discounts (YET)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does your project mask the absence of a basic reality?&lt;/p&gt;
+
+    &lt;p&gt;No, this project make this current reality stronger and more desirable in order to honey pot compulsive buyers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does your project bear relation to any reality whatsoever?&lt;/p&gt;
+
+    &lt;p&gt;No, It is a feasible reality anytime.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;intent&quot;&gt;Intent&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tools used, with justification&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Node.js - web Crawling (optional) in order to get actual sales and make it more desirable&lt;/li&gt;
+  &lt;li&gt;Node.js - backend framework (optional) in order to register numbers&lt;/li&gt;
+  &lt;li&gt;Express.js - frontend framework - to generate dinamic content&lt;/li&gt;
+  &lt;li&gt;Photoshop - content development look and feel minimal  vs overconsumption&lt;/li&gt;
+  &lt;li&gt;Godaddy hosting and Buy Domain&lt;/li&gt;
+  &lt;li&gt;Promote sharing via facebook - promote partners in crime who recomend the sales.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Data collection and measurement (if appropriate)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Node.js + web storage = noNeeded articles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ethical risks and mitigation&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;people who are not interested in the project - apologies and explanation of the project.&lt;/li&gt;
+  &lt;li&gt;people’s feelings hurt - apologies and explanation of the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Legal risks and mitigation&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;commercial web page - no credit card or personal information trade&lt;/li&gt;
+  &lt;li&gt;official web pages demands - not a copy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;justification&quot;&gt;Justification&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Why are you interested/excited/compelled to pursue this project?
+Dollar tree prices and quality products. Black fridays madness and garages full of garbage.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Circular economies&lt;/li&gt;
+  &lt;li&gt;Middle colombian class and loans&lt;/li&gt;
+  &lt;li&gt;Sustainable consumption and behaviour change&lt;/li&gt;
+  &lt;li&gt;Preferred products in Colombia&lt;/li&gt;
+  &lt;li&gt;Minimalist economy&lt;/li&gt;
+  &lt;li&gt;Sustainable development&lt;/li&gt;
+  &lt;li&gt;New economies&lt;/li&gt;
+  &lt;li&gt;oneMillionWebPage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Initial ideation
+    &lt;ul&gt;
+      &lt;li&gt;https://trafalmejo.github.io/category/fakingthenews/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Project questionnaire
+    &lt;ul&gt;
+      &lt;li&gt;https://trafalmejo.github.io/2017/10/01/QuestionaryProject/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Project URL (direct/source/other)
+    &lt;ul&gt;
+      &lt;li&gt;https://trafalmejo.github.io/2017/10/01/QuestionaryProject/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/10/01/QuestionaryProject/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/QuestionaryProject/</guid>
+        
+        
+        <category>FakeNews</category>
+        
+      </item>
+    
+      <item>
+        <title>Grab a thing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/o09.gif&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I choose really a simply machine to analize. Electronic claw arcade game also known as claw crane. This machine invite people to play with it. Once the coin is inside of it, you have 30 seconds to grab one of the items shown in the showcase with the help of a mechanical claw. If you win you will get a “valuable” object otherwise you will just lose your money.&lt;/p&gt;
+
+&lt;p&gt;The components of this arcade are: clear case, time display, button to grab, joystick, claw in a XY car and awards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/o10.jpeg&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The clear cubed case allows users to get a notion of spaciality and use the joystick in order to move the car and the claw to any desire point in the highest plane of the case. Once the user decided it is the correct location, he/she press the button which triggers the claw to get down and close. The claw is always gonna return to its initial position and then open. If you grab something you will have it through a dispenser in the lower part of the machine.&lt;/p&gt;
+
+&lt;p&gt;Users tend to see the position of the objects and the claw on the X and Z axes (ground axes) in order to align them and get better chances. Besides, it is really common to try first with the higher objects, which are closer and more free.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/o01.jpg&quot; alt=&quot;Interactivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is important to point this sort of machines are well known worldwide which means the learning curve in every play is short no matter how different the design is. However, every configuration differs from each other, which can be make the task easier or not. In order to grab anything there are many variables to consider information about several features from position, weight to torque which this machine is not giving out. This could be seen as an example of a machine that gives a really little feedback to its users which is the whole idea. Let’s imagine a claw crane with extraodinary feedback capabilities. In that case, this machine would deliver information about the position, claw strength and aperture, the motion speed, the pick up strength, object’s size, weight and so on. This task would be as intuitive as grab something with our bare hands, which means everyone will win in a game without difficulty level. Bad deal!&lt;/p&gt;
+
+&lt;p&gt;This machine has low interactivity on purpose to challenge their users in order to get money. Almost as a Casino where the variables are many and the users feel more lucky than the faith. Win in those cases is possible, but really difficult.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/10/01/Grab-a-thing/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/Grab-a-thing/</guid>
+        
+        
+        <category>PhyComp</category>
+        
+      </item>
     
       <item>
         <title>White Balance and Exposure exercise</title>
-        <description>&lt;p&gt;####White Balance&lt;/p&gt;
+        <description>&lt;h4 id=&quot;white-balance&quot;&gt;White Balance&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/whiteBalanceAuto.jpg&quot; alt=&quot;Auto White Balance&quot; /&gt;
-&lt;img src=&quot;/assets/whiteBalanceGrayCard.jpg&quot; alt=&quot;Grey Card White Balance&quot; /&gt;
+&lt;p&gt;Auto White Balance
+&lt;img src=&quot;/assets/whiteBalanceAuto.jpg&quot; alt=&quot;Auto White Balance&quot; /&gt;
+Grey Card White Balance
+&lt;img src=&quot;/assets/whiteBalanceGreyCard.jpg&quot; alt=&quot;Grey Card White Balance&quot; /&gt;
 This excercise shows the unaccurate color taken by auto white balance feature in the Canon Mark III camera. The auto white balance feature averages the color pixels present in the scene, this produces a predominant color in the image similar to a color filter which alterates the actual color. In order to correct this, we’ve used 50% grey card to set up the white balance correctly. You can find this feature as a Custom white balance correction.
 This particular photos were taking indoor. The auto white balance give us a yellowish image meanwhile the grey card set up shows us balanced colors.&lt;/p&gt;
 
-&lt;p&gt;####Exposure&lt;/p&gt;
+&lt;h4 id=&quot;exposure&quot;&gt;Exposure&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/exposure01.jpg&quot; alt=&quot;Exposure 01&quot; /&gt;
-&lt;img src=&quot;/assets/exposure02.jpg&quot; alt=&quot;Exposure 02&quot; /&gt;
-&lt;img src=&quot;/assets/exposure03.jpg&quot; alt=&quot;Exposure 03&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/exposure01.JPG&quot; alt=&quot;Exposure 01&quot; /&gt;
+&lt;img src=&quot;/assets/exposure02.JPG&quot; alt=&quot;Exposure 02&quot; /&gt;
+&lt;img src=&quot;/assets/exposure03.JPG&quot; alt=&quot;Exposure 03&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A right exposure is mandatory in order not to lose data. A histogram visualization show us the color distribution in the image, therefore, histogram values goes from 0 (Black) and 255 (White). That said, it is not desirable to use 0 and 255 values and avoid pure whites and blacks. Above images and its histograms show us good exposure examples.&lt;/p&gt;
 </description>
@@ -31,7 +206,7 @@ This particular photos were taking indoor. The auto white balance give us a yell
         <guid isPermaLink="true">http://localhost:4000/2017/09/22/WhiteBalanceAndExposure/</guid>
         
         
-        <category>DigitalImagingReset</category>
+        <category>DigitalImage</category>
         
       </item>
     
@@ -74,7 +249,46 @@ This green wave should be realigned in order to communicate how we shouldn’t c
 
 &lt;p&gt;I consider very difficult to categorized my intention as a lie, hoax, satire, rumor or conspirancy at this point because the idea is making me think about multiples ways to accomplish it. My approach to the solution will be virtual off course, taking advantage of all the tools to customer tracking  already available in the market. It is my interest to get people’ attention in a page full of sales where they can buy what they dont need. The skills I will require are web design and web development in order to fake and register all the no needed articles. However, the most important part is to reach people all around to make them partners in crime once the experience ended.&lt;/p&gt;
 
-&lt;p&gt;Let’s sale shit.&lt;/p&gt;
+&lt;h2 id=&quot;lets-sale-shit&quot;&gt;Let’s sale shit.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.milliondollarhomepage.com/&quot;&gt;One Million Dollar Home Page&lt;/a&gt;
+One Million Dollar Home Page is one of the first examples of adverstisement spaces in the web. His creator, Alex Tew sell spaces of 10x10 pixels in a canvas of 1000x1000. Every pixel’s price was 1 dollar meaning a commercial in all the web page would cost 1 million dollar (Bigger the ad, bigger the price).
+About 2416 ads are showing their products and services in the page, giving to the site a particular style of chaos and lawlessness.&lt;/p&gt;
+
+&lt;p&gt;General sketches&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/fakingIdea.jpeg&quot; alt=&quot;General Sketches&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;whole-idea&quot;&gt;Whole idea&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Get the user in our page somehow&lt;/li&gt;
+  &lt;li&gt;Seduce him with a important sale&lt;/li&gt;
+  &lt;li&gt;Show the product&lt;/li&gt;
+  &lt;li&gt;Bui the product(Simbolically)&lt;/li&gt;
+  &lt;li&gt;Decide if it is needed o not.
+    + If it is needed go to Amazon, best Buy o groupon + apologies because it is not gonna have the same price.
+    + If it is not needed. Invitation to throw it in our “no needed articles dump”&lt;/li&gt;
+  &lt;li&gt;Invite to be partners in crime to follow and share the page&lt;/li&gt;
+  &lt;li&gt;Send 15 tons of garbage to the space eventually.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;technical-requirements&quot;&gt;Technical requirements:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Feed the web with actual products (Amazon, Best Buy, etc) - Back-end code&lt;/li&gt;
+  &lt;li&gt;Front-end showing all the Overconsumption (overwhelming) vs Minimalist economies (easy and comfortable for the eye)&lt;/li&gt;
+  &lt;li&gt;Register and save all the data about “no needed article dump” to make our virtual garbage mountain.&lt;/li&gt;
+  &lt;li&gt;Design rocket and launching interface (back and front end). Once we reach 15 tons we should launch it to the space.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/fakingStyle.jpeg&quot; alt=&quot;General Sketches&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently I am waiting for more feedback about the idea. However, it is clear the idea is big enough to divide it by parts. In order to advance, let’s define the MVP Minimun viable product.&lt;/p&gt;
+&lt;h2 id=&quot;first-stage&quot;&gt;First stage:&lt;/h2&gt;
+&lt;p&gt;Web page with fake products. Just back end design - Static pages without any kind of base data&lt;/p&gt;
+&lt;h2 id=&quot;second-stage&quot;&gt;Second stage:&lt;/h2&gt;
+&lt;p&gt;Web fed by Amazon, Best Buy’s new sales. - Monitoring of weight of bought products and weight&lt;/p&gt;
+&lt;h2 id=&quot;third-stage&quot;&gt;Third stage&lt;/h2&gt;
+&lt;p&gt;Virtual garbage dump (mountain), visual launch and notifications.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -89,11 +303,11 @@ This green wave should be realigned in order to communicate how we shouldn’t c
 +&lt;a href=&quot;https://www.theguardian.com/global-development-professionals-network/2017/apr/06/kate-raworth-doughnut-economics-new-economics&quot;&gt;New economies&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Sep 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality-Copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality-Copy/</guid>
+        <link>http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/17/Reflection-of-a-basic-reality/</guid>
         
         
-        <category>FakingTheNews</category>
+        <category>FakeNews</category>
         
       </item>
     
@@ -130,7 +344,7 @@ Listen, Think and Speak between two or more participants.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2017/09/17/WhatIsInteractivity/</guid>
         
         
-        <category>PhysicalComputation</category>
+        <category>PhyComp</category>
         
       </item>
     
@@ -168,7 +382,7 @@ Listen, Think and Speak between two or more participants.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2017/09/14/empathyMachine/</guid>
         
         
-        <category>PhysicalComputation</category>
+        <category>PhyComp</category>
         
       </item>
     
@@ -200,7 +414,7 @@ Listen, Think and Speak between two or more participants.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2017/09/11/fakingProject/</guid>
         
         
-        <category>FakingTheNews</category>
+        <category>FakeNews</category>
         
       </item>
     

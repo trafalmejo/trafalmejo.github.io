@@ -3,7 +3,7 @@ layout: post
 title: "NoNeeded articles dump"
 date: 2017-10-01
 categories: 
-  - FakingTheNews
+  - FakeNews
 description: 
 image: 
 image-sm:
