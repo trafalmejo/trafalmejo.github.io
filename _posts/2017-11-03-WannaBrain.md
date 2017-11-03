@@ -10,6 +10,7 @@ image-sm:
 ---
 
 # Wanna a Brain?: Midterm
+------
 
 
 ## Brief
@@ -24,6 +25,7 @@ For some reason the first thing which came to our minds was food. Mostly interac
 ## References
 
 Head in jars from futurama was the main reference. These floating heads in jars of different personalities. What about the opportunity of taste that water, those faces or eat those brains. The brain shape gave us a character with no identity who can be anyone, different voices and faces.
+
 ![Interactivity](/assets/wannaBrain07.png)
 
 ## Concept
@@ -32,26 +34,30 @@ Once the basis were thought, we started deliberating about several parts of our 
 Let's think about this device as a system which has inputs, procceses, outputs and maintenance.
 
 ### Inputs:
-	1. Touch
+	1. touch
+
 ### Processes:
 	1. Give the brain a voice and a face - Identity
 	2. Come to live 
+
 ### Outputs:
 	1. Speak
 	2. Move
 	3. Light up
 	4. Show a face
+
 ### Maintenance:
 	1. We made a cardboard box with access in the bottom face (just in case we need quick access).
-	2. We realized people might not be interested in eat it because of sanitary issues. We came with extra materials as foil and plastic wrap.
+	2. We realized people might not be interested in eat it because of sanitary issues. 
+	We came with extra materials as foil and plastic wrap.
 	3. The food would be the last part to assemble to ensure cleanliness.
-
-In order to make some eatable brain shape
 
 ## Technical solution
 	
 	We decided to use this schematic.
+
 ![Interactivity](/assets/wannaBrain06.jpeg)
+
 	1. Capacitive sensor: based on CapSense library for Arduino to trigger action.
 	2. Button: to trigger actions in case of emergency.
 	3. 8 Ohms Speaker as sound output
@@ -59,6 +65,9 @@ In order to make some eatable brain shape
 	5. Servo motor to shake the brain
 	6. 8 lEDS connected to a Shift register.
 	7. p5.js sketch to trigger images and audios
+	8. JELLO as a main material. 
+	It is conductive (metal spoons) to use as a bridge between the circuit and us as a capacitors.
+
 
 ## Process:
 ![Interactivity](/assets/wannaBrain02.png)
@@ -71,9 +80,14 @@ We made jello several times because we didnt reach enough density to mantain a f
 ![Interactivity](/assets/wannaBrain.png)
 ![Interactivity](/assets/wannaBrain01.png)
 
+The best is her face!. 
 
 ## Technical issues
-	1. 8 Ohms speaker's power is nothing (too low). As a recomendation, It's useful to have a built-in amplifier module to make louder.
-	2. When you touch the jello, you make it shake indeed, so the shake feedback produced by the servo is almost invisible.
-	3. LEDs have focused light. In order to make it more uniform distribuited you should use a diffuser.
-	4. Movement of the capatitor, in this case the jello could activate the capacitive sensor, triggering the experience. Your should be sure you have callibrated a right threshold.
+
+- 8 Ohms speaker's power is nothing (too low). As a recomendation, It's useful to have a built-in amplifier module to make louder.
+
+- When you touch the jello, you make it shake indeed, so the shake feedback produced by the servo is almost invisible.
+
+- LEDs have focused light. In order to make it more uniform distribuited you should use a diffuser.
+
+- Movement of the capatitor, in this case the jello could activate the capacitive sensor, triggering the experience. Your should be sure you have callibrated a right threshold.
