@@ -84,7 +84,7 @@ The best is her face!.
 
 ## Technical issues
 
-- 8 Ohms speaker's power is nothing (too low). As a recomendation, It's useful to have a built-in amplifier module to make louder.
+- 8 Ohms speaker's power is nothing (too low). As a recomendation, It's useful to have a built-in amplifier module to make it louder.
 
 - When you touch the jello, you make it shake indeed, so the shake feedback produced by the servo is almost invisible.
 
