@@ -28,6 +28,11 @@ The first set Up included uncovered sensors but they didnt work because they wer
 
 ![Enlighten](/assets/photoresistors.jpeg)
 
+The first prototype was made in cardboard which is not the more friendly material with fire. So far I haven't had any sort of issue with it, but it is crucial to change the materials to avoid incidents.
+
+## Simulation
+
+Enlighten will controlled the brighness of 8 bulbs in the space depending on where they are, meaning, their relation with the flame. In order to make this happen I designed a 3D simulator where the bulbs can be placed whereever its necessary. This app make the experience editable and scalable (this may include new features in the future). The simulator include a particle system which simulates a virtual flame which responses to virtual wind. Brightness and wind's direction is controlled by our SERIAL readings from ARDUINO and going back to dim every bulb.
 
 
-
+![Enlighten](/assets/simulator.jpeg)
