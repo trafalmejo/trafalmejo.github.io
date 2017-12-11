@@ -9,7 +9,7 @@ image:
 image-sm:
 ---
 
-## Testing
+## Hardware
 
 First testes shows there are glitches in the lower voltages, so knowing that working between 10% and 30% of the power is working fine (50% is too brigth to enjoy the experience but you can go up to 90% easily if you want to). So far there are not significant differences between LED and Tradional bulbs so in the first testes i am mixing them without bigger issues.
 
@@ -36,3 +36,21 @@ Enlighten will controlled the brighness of 8 bulbs in the space depending on whe
 
 
 ![Enlighten](/assets/simulator.jpeg)
+
+## Testing
+
+The first testes included linear arrays of light bulbs (8 of them using just one 8 channel module).
+{% include youtubePlayer.html id="X0mm8jbAqIw" %}
+There was a flickering in some of the bulbs due to the frequency of the voltage. In despite 8 channels dimmer mentioned it identifies frecuency and voltage automaticly, you have to be sure you're using the correct timing setup in your Arduino's code in order to work with 50Hz or 60Hz (The exact timing data is included in the Arduino's code example).
+
+## Deployment
+
+In order to control 16 bulbs is necessary to use at least to Arduinos. This implied 2 Serial ports to write to (at least in the processing side). This also implies that each Arduino should have a differemt baud rate in order to stablish a communication.
++myPort1 = new Serial(this, portName1, 9600);
++myPort1 = new Serial(this, portName1, 38400);
+The baud rate should be the same in the Arduinoo's side respectively. That way you can control more than one Arduino.
+![Enlighten](/assets/installationEnlighten.jpeg)
+
+## Calibration
+
+The light sensors are receiving bounces of light all the time, so It reads different values between natural (morning, afternoon) or artificial light which makes mandatory a calibration process.
