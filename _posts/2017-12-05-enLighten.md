@@ -22,8 +22,8 @@ Regarding the flame's movements tracking, it could be accomplished by using imag
 
 In our ideal scenario the flame is giving the same light to every sensor, but if there is more light in one sensor than another it means the flame has a direction. This baheviour allow us to make this relation:
 
-X position = EAST - WEST;
-Y position = NORTH - SOUTH;
++X position = EAST - WEST;
++Y position = NORTH - SOUTH;
 
 This resulted values are the direction vectors of the flame related with a coordinate system at [0,0];
 For example, is all the NORTH, SOUTH, WEST, EAST are 1023 that means X and Y = 0 which means no direction, because all the sensors are reading the same quantity of light. The cool of this is the noise implied in a flame's movement which moves the readings every time.

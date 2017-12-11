@@ -31,35 +31,34 @@ These are the materials in order to control ONE BULB, but the problem now is tha
 
 So I found this beauty board [8 Channel Digital Ac Programmable Light Dimmer Module Controller Board Arduino Raspberry Compatible 50/60hz 110V, 220V IOT](https://www.amazon.com/Channel-Programmable-Controller-Raspberry-Compatible/dp/B01BMSRVVE). That solved, we start our first testes with AC Current.
 
- 	- 8 Channel Digital Ac Dimmer ------ US 70
- 	- 8 Bulbs ---------------------------US 16
- 	- 8 Bulbs plug -----------------------US 10
- 	- 10 Meters of electrical Cable ----- US 10
- 	- 4 Photoresistors ------------------ US 5
- 	- Arduino UNO ----------------------- US 25
- 	- 1 Candle ---------------------------US 2
- 	- Acrylic to make the enclosure ------US 20
-  
-  Total: US 158
+- 8 Channel Digital Ac Dimmer ------ US 70
+- 8 Bulbs ---------------------------US 16
+- 8 Bulbs plug -----------------------US 10
+- 10 Meters of electrical Cable ----- US 10
+- 4 Photoresistors ------------------ US 5
+- Arduino UNO ----------------------- US 25
+- 1 Candle ---------------------------US 2
+- Acrylic to make the enclosure ------US 20
+- Total: US 158
 
 
 ### Action plan - Dates
 
  + Nov 20 - 24 -----------------------------
- 	- Circuit Schematic. Ports budget.
- 	- Construction one Bulb AC Dimmer and testing with arduino software
- 	- Buy all materials
+ - Circuit Schematic. Ports budget.
+ - Construction one Bulb AC Dimmer and testing with arduino software
+ - Buy all materials
  + Nov 27 - Dic 1 -----------------------------
-  	- AC load testing 20 bulbs = what voltage / what current?
- 	- Build 20 different AC bulbs?. DC Controller and Piezo installation
+ - AC load testing 20 bulbs = what voltage / what current?
+ - Build 20 different AC bulbs?. DC Controller and Piezo installation
  + Dic 4 - 8 -----------------------------
-  	- Bulding 3D model - bulbs as a pixels.
- 	- Flame analysis.
- 	- Get scenography.
- 	- Location definition.
- 	- Final documentation
+ - Bulding 3D model - bulbs as a pixels.
+ - Flame analysis.
+ - Get scenography.
+ - Location definition.
+ - Final documentation
  + Dic 11 -----------------------------
- 	- Final presentation.
+ - Final presentation.
 
 
 
