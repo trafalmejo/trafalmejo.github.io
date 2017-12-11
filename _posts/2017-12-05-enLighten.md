@@ -9,6 +9,9 @@ image:
 image-sm:
 ---
 
+
+![Enlighten](/assets/enlighten.jpeg)
+
 ## Hardware
 
 First testes shows there are glitches in the lower voltages, so knowing that working between 10% and 30% of the power is working fine (50% is too brigth to enjoy the experience but you can go up to 90% easily if you want to). So far there are not significant differences between LED and Tradional bulbs so in the first testes i am mixing them without bigger issues.
