@@ -23,5 +23,5 @@ So first things first I used a character from Adobe Mixamo with the basic animat
 
 I made really simple scenario with multiple cubes with differents sizes. The amount of cubes depended on the size of the ground and a random function to determine the position within X,Z axes. Physhics and 0 gravity allow the cubes to float and react to the collisions once they happens. I coded a little script to trigger a sound every time the engine detects a collision. This sound was introduced in an Audio Clip component and associated with a Audio Source. Everytime there is a colllision the pitch of the sound varies randomly to produce a different tone. Finally we changed the color of the already touched cubes. That's the result.
 
-[Unity - 3D](https://www.youtube.com/watch?v=Aw3AwK74wWQ)
-{% include youtubePlayer.html id="Aw3AwK74wWQ" %}
+[Unity - 3D](https://youtu.be/yroFmia3YFI)
+{% include youtubePlayer.html id="yroFmia3YFI" %}
